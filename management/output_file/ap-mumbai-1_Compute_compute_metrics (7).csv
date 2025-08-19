@@ -1,0 +1,3 @@
+Instance Name,Instance ID,State,Shape,Fault Domain,CPU Utilization (%) (10min),Memory Utilization (%) (10min),Network Utilization (MB) (10min),Public IP,Private IP,Network Type,Volume Encryption,Backup Configured,Older Generation Shape,Tags
+vm2,ocid1.instance.oc1.ap-mumbai-1.anrg6ljrnbpmqqqcxqu2qzrqo4ryckekqgh3k65yb6rs6ebvz6gs74kkqfjq,RUNNING,VM.Standard.E2.1.Micro,FAULT-DOMAIN-2,,,,,,Private,Not Encrypted,Not Configured,Yes,{}
+vm3,ocid1.instance.oc1.ap-mumbai-1.anrg6ljrnbpmqqqcc4qhhdhyjtslim6r76nzlrwhbmznfigplpqyrzd4obga,RUNNING,VM.Standard.E2.1.Micro,FAULT-DOMAIN-3,,,,,,Private,Not Encrypted,Not Configured,Yes,{}
