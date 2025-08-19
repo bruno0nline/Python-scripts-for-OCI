@@ -1,0 +1,757 @@
+2025-05-23 10:11:05,359 - INFO - 
+🔍 Processando block volume: LinuxTSPlus1_clone070525
+2025-05-23 10:11:05,666 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus1_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:05,826 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus2_clone070525
+2025-05-23 10:11:06,246 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus2_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:06,787 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus4_clone070525
+2025-05-23 10:11:07,079 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus4_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:07,228 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus4_clone070525
+2025-05-23 10:11:07,516 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus4_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:08,046 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus7_clone070525
+2025-05-23 10:11:08,455 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus7_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:08,613 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus8_clone070525
+2025-05-23 10:11:08,906 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus8_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:09,435 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus9_clone070525
+2025-05-23 10:11:09,710 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus9_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:09,859 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus12_clone070525
+2025-05-23 10:11:10,126 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus12_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:10,651 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus13_clone070525
+2025-05-23 10:11:10,938 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus13_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:11,085 - INFO - 
+🔍 Processando block volume: BancoUbertintasTSPlus14_clone070525
+2025-05-23 10:11:11,439 - INFO - ✅ Backup criado: BlockBackup-BancoUbertintasTSPlus14_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:11,962 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus14_clone070525
+2025-05-23 10:11:12,257 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus14_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:12,411 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus16_clone070525
+2025-05-23 10:11:12,704 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus16_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:13,216 - INFO - 
+🔍 Processando block volume: Banco2LinuxBR5_clone070525
+2025-05-23 10:11:13,339 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:11:22,268 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxBR5_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:22,439 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus18_clone070525
+2025-05-23 10:11:22,771 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus18_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:23,292 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus19_clone070525
+2025-05-23 10:11:23,416 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:11:31,184 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:11:42,919 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus19_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:43,097 - INFO - 
+🔍 Processando block volume: Banco4LinuxTSPlus10_clone070525
+2025-05-23 10:11:43,415 - INFO - ✅ Backup criado: BlockBackup-Banco4LinuxTSPlus10_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:11:43,939 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus20_clone070525
+2025-05-23 10:11:44,061 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:11:50,923 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:12:03,878 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-23 10:12:28,632 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus20_clone070525-BKPAUTCITEL-20250523-1011
+2025-05-23 10:12:29,153 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus22_clone070525
+2025-05-23 10:12:29,276 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:12:37,762 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus22_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:12:38,285 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus1_clone070525
+2025-05-23 10:12:38,588 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus1_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:12:38,735 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus24_clone070525
+2025-05-23 10:12:38,998 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus24_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:12:39,529 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus9_clone070525
+2025-05-23 10:12:39,858 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus9_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:12:40,383 - INFO - 
+🔍 Processando block volume: Banco_PalacioFerramentas_clone070525
+2025-05-23 10:12:40,672 - INFO - ✅ Backup criado: BlockBackup-Banco_PalacioFerramentas_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:12:40,833 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus25_clone070525
+2025-05-23 10:12:41,098 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus25_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:12:41,618 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus26_clone070525
+2025-05-23 10:12:41,740 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:12:49,002 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus26_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:12:49,164 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus12_clone070525
+2025-05-23 10:12:49,443 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus12_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:12:49,974 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus28_clone070525
+2025-05-23 10:12:50,289 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus28_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:12:50,445 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus29_clone070525
+2025-05-23 10:12:50,729 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus29_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:12:51,256 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus30_clone070525
+2025-05-23 10:12:51,561 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus30_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:12:51,718 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus6_clone070525
+2025-05-23 10:12:52,017 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus6_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:12:52,546 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPLUS32_clone070525
+2025-05-23 10:12:52,669 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:13:00,968 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPLUS32_clone070525-BKPAUTCITEL-20250523-1012
+2025-05-23 10:13:01,130 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPLUS33_clone070525
+2025-05-23 10:13:01,441 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPLUS33_clone070525-BKPAUTCITEL-20250523-1013
+2025-05-23 10:13:01,961 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPLUS34_clone070525
+2025-05-23 10:13:02,308 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPLUS34_clone070525-BKPAUTCITEL-20250523-1013
+2025-05-23 10:13:02,851 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPLUS36_clone070525
+2025-05-23 10:13:02,974 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:13:11,874 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:13:26,114 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-23 10:13:49,200 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPLUS36_clone070525-BKPAUTCITEL-20250523-1013
+2025-05-23 10:13:49,725 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPLUS37_clone070525
+2025-05-23 10:13:50,043 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPLUS37_clone070525-BKPAUTCITEL-20250523-1013
+2025-05-23 10:13:50,202 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPLUS40_clone070525
+2025-05-23 10:13:50,498 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPLUS40_clone070525-BKPAUTCITEL-20250523-1013
+2025-05-23 10:13:51,034 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPLUS41_clone070525
+2025-05-23 10:13:51,413 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPLUS41_clone070525-BKPAUTCITEL-20250523-1013
+2025-05-23 10:13:51,561 - INFO - 
+🔍 Processando block volume: Banco3LinuxBR5_clone070525
+2025-05-23 10:13:51,855 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxBR5_clone070525-BKPAUTCITEL-20250523-1013
+2025-05-23 10:13:52,389 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPLUS43_clone070525
+2025-05-23 10:13:52,660 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPLUS43_clone070525-BKPAUTCITEL-20250523-1013
+2025-05-23 10:13:53,183 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus11_clone070525
+2025-05-23 10:13:53,495 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus11_clone070525-BKPAUTCITEL-20250523-1013
+2025-05-23 10:13:54,021 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPLUS65_clone070525
+2025-05-23 10:13:54,299 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPLUS65_clone070525-BKPAUTCITEL-20250523-1013
+2025-05-23 10:13:54,811 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus17_clone070525
+2025-05-23 10:13:54,934 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:14:01,065 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:14:15,644 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus17_clone070525-BKPAUTCITEL-20250523-1013
+2025-05-23 10:14:16,177 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus8_clone070525
+2025-05-23 10:14:16,551 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus8_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:14:17,070 - INFO - 
+🔍 Processando block volume: Banco 1 OracleBr48_clone070525
+2025-05-23 10:14:17,358 - INFO - ✅ Backup criado: BlockBackup-Banco 1 OracleBr48_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:14:17,906 - INFO - 
+🔍 Processando block volume: Banco5LinuxTSPlus10_clone070525
+2025-05-23 10:14:18,028 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:14:26,855 - INFO - ✅ Backup criado: BlockBackup-Banco5LinuxTSPlus10_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:14:27,377 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus50_clone070525
+2025-05-23 10:14:27,500 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:14:34,005 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus50_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:14:34,529 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus20_clone070525
+2025-05-23 10:14:34,651 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:14:40,855 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus20_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:14:41,374 - INFO - 
+🔍 Processando block volume: BancoPRODBelaTintas_clone070525
+2025-05-23 10:14:41,683 - INFO - ✅ Backup criado: BlockBackup-BancoPRODBelaTintas_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:14:42,215 - INFO - 
+🔍 Processando block volume: BancoPRODJRPais_clone070525
+2025-05-23 10:14:42,340 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:14:49,249 - INFO - ✅ Backup criado: BlockBackup-BancoPRODJRPais_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:14:49,775 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus7_clone070525
+2025-05-23 10:14:50,080 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus7_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:14:50,227 - INFO - 
+🔍 Processando block volume: Banco1BR55_clone070525
+2025-05-23 10:14:50,515 - INFO - ✅ Backup criado: BlockBackup-Banco1BR55_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:14:51,054 - INFO - 
+🔍 Processando block volume: BancoLinux59_clone070525
+2025-05-23 10:14:51,176 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:14:57,443 - INFO - ✅ Backup criado: BlockBackup-BancoLinux59_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:14:58,000 - INFO - 
+🔍 Processando block volume: Banco2LinuxBR21_clone070525
+2025-05-23 10:14:58,277 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxBR21_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:14:58,814 - INFO - 
+🔍 Processando block volume: Banco2Linux59_clone070525
+2025-05-23 10:14:59,090 - INFO - ✅ Backup criado: BlockBackup-Banco2Linux59_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:14:59,614 - INFO - 
+🔍 Processando block volume: Banco2BR24_clone070525
+2025-05-23 10:14:59,916 - INFO - ✅ Backup criado: BlockBackup-Banco2BR24_clone070525-BKPAUTCITEL-20250523-1014
+2025-05-23 10:15:00,444 - INFO - 
+🔍 Processando block volume: Banco2BR33_clone070525
+2025-05-23 10:15:00,739 - INFO - ✅ Backup criado: BlockBackup-Banco2BR33_clone070525-BKPAUTCITEL-20250523-1015
+2025-05-23 10:15:01,256 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPLUS65_clone070525
+2025-05-23 10:15:01,533 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPLUS65_clone070525-BKPAUTCITEL-20250523-1015
+2025-05-23 10:15:02,087 - INFO - 
+🔍 Processando block volume: BancoBR_72_clone070525
+2025-05-23 10:15:02,468 - INFO - ✅ Backup criado: BlockBackup-BancoBR_72_clone070525-BKPAUTCITEL-20250523-1015
+2025-05-23 10:15:02,997 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus18_clone070525
+2025-05-23 10:15:03,279 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus18_clone070525-BKPAUTCITEL-20250523-1015
+2025-05-23 10:15:03,807 - INFO - 
+🔍 Processando block volume: LinuxDataBelaTintas_clone070525
+2025-05-23 10:15:04,080 - INFO - ✅ Backup criado: BlockBackup-LinuxDataBelaTintas_clone070525-BKPAUTCITEL-20250523-1015
+2025-05-23 10:15:04,603 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus22_clone070525
+2025-05-23 10:15:04,725 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:15:14,285 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus22_clone070525-BKPAUTCITEL-20250523-1015
+2025-05-23 10:15:14,855 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPLUS32_clone070525
+2025-05-23 10:15:15,137 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPLUS32_clone070525-BKPAUTCITEL-20250523-1015
+2025-05-23 10:15:15,709 - INFO - 
+🔍 Processando block volume: Bancos2_BR29_clone070525
+2025-05-23 10:15:16,025 - INFO - ✅ Backup criado: BlockBackup-Bancos2_BR29_clone070525-BKPAUTCITEL-20250523-1015
+2025-05-23 10:15:16,545 - INFO - 
+🔍 Processando block volume: Bancos4_BR9_clone070525
+2025-05-23 10:15:16,822 - INFO - ✅ Backup criado: BlockBackup-Bancos4_BR9_clone070525-BKPAUTCITEL-20250523-1015
+2025-05-23 10:15:17,344 - INFO - 
+🔍 Processando block volume: Bancos3_BR12_clone070525
+2025-05-23 10:15:17,703 - INFO - ✅ Backup criado: BlockBackup-Bancos3_BR12_clone070525-BKPAUTCITEL-20250523-1015
+2025-05-23 10:15:18,221 - INFO - 
+🔍 Processando block volume: Bancos2_BR34_clone070525
+2025-05-23 10:15:18,344 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:15:27,512 - INFO - ✅ Backup criado: BlockBackup-Bancos2_BR34_clone070525-BKPAUTCITEL-20250523-1015
+2025-05-23 10:15:28,042 - INFO - 
+🔍 Processando block volume: Bancos3_BR29_clone070525
+2025-05-23 10:15:28,164 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:15:35,661 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:15:48,058 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-23 10:16:12,575 - INFO - ✅ Backup criado: BlockBackup-Bancos3_BR29_clone070525-BKPAUTCITEL-20250523-1015
+2025-05-23 10:16:13,111 - INFO - 
+🔍 Processando block volume: Banco3_BR7_clone070525
+2025-05-23 10:16:13,394 - INFO - ✅ Backup criado: BlockBackup-Banco3_BR7_clone070525-BKPAUTCITEL-20250523-1016
+2025-05-23 10:16:13,921 - INFO - 
+🔍 Processando block volume: Bancos2_BR02_clone070525
+2025-05-23 10:16:14,199 - INFO - ✅ Backup criado: BlockBackup-Bancos2_BR02_clone070525-BKPAUTCITEL-20250523-1016
+2025-05-23 10:16:14,726 - INFO - 
+🔍 Processando block volume: Bancos4_BR18_clone070525
+2025-05-23 10:16:15,008 - INFO - ✅ Backup criado: BlockBackup-Bancos4_BR18_clone070525-BKPAUTCITEL-20250523-1016
+2025-05-23 10:16:15,539 - INFO - 
+🔍 Processando block volume: Bancos4_BR01_clone070525
+2025-05-23 10:16:15,821 - INFO - ✅ Backup criado: BlockBackup-Bancos4_BR01_clone070525-BKPAUTCITEL-20250523-1016
+2025-05-23 10:16:16,348 - INFO - 
+🔍 Processando block volume: Bancos3_BR13_clone070525
+2025-05-23 10:16:16,621 - INFO - ✅ Backup criado: BlockBackup-Bancos3_BR13_clone070525-BKPAUTCITEL-20250523-1016
+2025-05-23 10:16:17,139 - INFO - 
+🔍 Processando block volume: Banco3_BR4_clone070525
+2025-05-23 10:16:17,429 - INFO - ✅ Backup criado: BlockBackup-Banco3_BR4_clone070525-BKPAUTCITEL-20250523-1016
+2025-05-23 10:16:17,949 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus16_clone070525
+2025-05-23 10:16:18,281 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus16_clone070525-BKPAUTCITEL-20250523-1016
+2025-05-23 10:16:18,810 - INFO - 
+🔍 Processando block volume: BKO Palacio TKT 651385_clone070525
+2025-05-23 10:16:19,125 - INFO - ✅ Backup criado: BlockBackup-BKO Palacio TKT 651385_clone070525-BKPAUTCITEL-20250523-1016
+2025-05-23 10:16:19,676 - INFO - 
+🔍 Processando block volume: Banco4LinuxTSPlus6_clone070525
+2025-05-23 10:16:19,799 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:16:26,590 - INFO - ✅ Backup criado: BlockBackup-Banco4LinuxTSPlus6_clone070525-BKPAUTCITEL-20250523-1016
+2025-05-23 10:16:27,121 - INFO - 
+🔍 Processando block volume: Banco2BR_72_clone070525
+2025-05-23 10:16:27,244 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:16:35,751 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:16:49,272 - INFO - ✅ Backup criado: BlockBackup-Banco2BR_72_clone070525-BKPAUTCITEL-20250523-1016
+2025-05-23 10:16:49,799 - INFO - 
+🔍 Processando block volume: Bancos3_BR25_clone070525
+2025-05-23 10:16:49,921 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:16:57,405 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:17:11,330 - INFO - ✅ Backup criado: BlockBackup-Bancos3_BR25_clone070525-BKPAUTCITEL-20250523-1016
+2025-05-23 10:17:11,847 - INFO - 
+🔍 Processando block volume: bancos3_BR28_clone070525
+2025-05-23 10:17:12,140 - INFO - ✅ Backup criado: BlockBackup-bancos3_BR28_clone070525-BKPAUTCITEL-20250523-1017
+2025-05-23 10:17:12,664 - INFO - 
+🔍 Processando block volume: GeB_clone070525
+2025-05-23 10:17:13,002 - INFO - ✅ Backup criado: BlockBackup-GeB_clone070525-BKPAUTCITEL-20250523-1017
+2025-05-23 10:17:13,513 - INFO - 
+🔍 Processando block volume: Banco3_BR20_clone070525
+2025-05-23 10:17:13,841 - INFO - ✅ Backup criado: BlockBackup-Banco3_BR20_clone070525-BKPAUTCITEL-20250523-1017
+2025-05-23 10:17:14,363 - INFO - 
+🔍 Processando block volume: Bancos3_BR34_clone070525
+2025-05-23 10:17:14,486 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:17:21,633 - INFO - ✅ Backup criado: BlockBackup-Bancos3_BR34_clone070525-BKPAUTCITEL-20250523-1017
+2025-05-23 10:17:22,155 - INFO - 
+🔍 Processando block volume: Banco_Darka_clone070525
+2025-05-23 10:17:22,443 - INFO - ✅ Backup criado: BlockBackup-Banco_Darka_clone070525-BKPAUTCITEL-20250523-1017
+2025-05-23 10:17:22,970 - INFO - 
+🔍 Processando block volume: Banco4LinuxTSPlus7_clone070525
+2025-05-23 10:17:23,243 - INFO - ✅ Backup criado: BlockBackup-Banco4LinuxTSPlus7_clone070525-BKPAUTCITEL-20250523-1017
+2025-05-23 10:17:23,762 - INFO - 
+🔍 Processando block volume: Banco4LinuxTSPlus20_clone070525
+2025-05-23 10:17:24,104 - INFO - ✅ Backup criado: BlockBackup-Banco4LinuxTSPlus20_clone070525-BKPAUTCITEL-20250523-1017
+2025-05-23 10:17:24,618 - INFO - 
+🔍 Processando block volume: Bancos4_BR13_clone070525
+2025-05-23 10:17:24,740 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:17:33,723 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:17:45,742 - INFO - ✅ Backup criado: BlockBackup-Bancos4_BR13_clone070525-BKPAUTCITEL-20250523-1017
+2025-05-23 10:17:46,278 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPLUS37_clone070525
+2025-05-23 10:17:46,566 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPLUS37_clone070525-BKPAUTCITEL-20250523-1017
+2025-05-23 10:17:47,089 - INFO - 
+🔍 Processando block volume: BackupGeB_clone070525
+2025-05-23 10:17:47,382 - INFO - ✅ Backup criado: BlockBackup-BackupGeB_clone070525-BKPAUTCITEL-20250523-1017
+2025-05-23 10:17:47,903 - INFO - 
+🔍 Processando block volume: BancoGeB_clone070525
+2025-05-23 10:17:48,026 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:17:57,363 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:18:10,658 - INFO - ✅ Backup criado: BlockBackup-BancoGeB_clone070525-BKPAUTCITEL-20250523-1017
+2025-05-23 10:18:11,179 - INFO - 
+🔍 Processando block volume: Banco3BR55_clone070525
+2025-05-23 10:18:11,302 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:18:18,945 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:18:30,854 - INFO - ✅ Backup criado: BlockBackup-Banco3BR55_clone070525-BKPAUTCITEL-20250523-1018
+2025-05-23 10:18:31,380 - INFO - 
+🔍 Processando block volume: Bancos5_BR1_clone070525
+2025-05-23 10:18:31,716 - INFO - ✅ Backup criado: BlockBackup-Bancos5_BR1_clone070525-BKPAUTCITEL-20250523-1018
+2025-05-23 10:18:32,242 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus19_clone070525
+2025-05-23 10:18:32,537 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus19_clone070525-BKPAUTCITEL-20250523-1018
+2025-05-23 10:18:33,064 - INFO - 
+🔍 Processando block volume: BackupCoresVivas TKT 902822_clone070525
+2025-05-23 10:18:33,408 - INFO - ✅ Backup criado: BlockBackup-BackupCoresVivas TKT 902822_clone070525-BKPAUTCITEL-20250523-1018
+2025-05-23 10:18:33,930 - INFO - 
+🔍 Processando block volume: bkpBoomerVinicius_clone070525
+2025-05-23 10:18:34,250 - INFO - ✅ Backup criado: BlockBackup-bkpBoomerVinicius_clone070525-BKPAUTCITEL-20250523-1018
+2025-05-23 10:18:34,776 - INFO - 
+🔍 Processando block volume: GeB2_clone070525
+2025-05-23 10:18:35,064 - INFO - ✅ Backup criado: BlockBackup-GeB2_clone070525-BKPAUTCITEL-20250523-1018
+2025-05-23 10:18:35,583 - INFO - 
+🔍 Processando block volume: bkpParque1014464_clone070525
+2025-05-23 10:18:35,870 - INFO - ✅ Backup criado: BlockBackup-bkpParque1014464_clone070525-BKPAUTCITEL-20250523-1018
+2025-05-23 10:18:36,397 - INFO - 
+🔍 Processando block volume: bkpPedrao1020442_clone070525
+2025-05-23 10:18:36,683 - INFO - ✅ Backup criado: BlockBackup-bkpPedrao1020442_clone070525-BKPAUTCITEL-20250523-1018
+2025-05-23 10:18:37,232 - INFO - 
+🔍 Processando block volume: Backup_BR34_1031161_clone070525
+2025-05-23 10:18:37,354 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:18:45,169 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:18:56,282 - INFO - ✅ Backup criado: BlockBackup-Backup_BR34_1031161_clone070525-BKPAUTCITEL-20250523-1018
+2025-05-23 10:18:56,809 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPLUS65_clone070525
+2025-05-23 10:18:57,081 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPLUS65_clone070525-BKPAUTCITEL-20250523-1018
+2025-05-23 10:18:57,611 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus22_clone070525
+2025-05-23 10:18:57,735 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:19:04,058 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus22_clone070525-BKPAUTCITEL-20250523-1018
+2025-05-23 10:19:04,599 - INFO - 
+🔍 Processando block volume: BinariosLinuxTSPLUS65_clone070525
+2025-05-23 10:19:04,900 - INFO - ✅ Backup criado: BlockBackup-BinariosLinuxTSPLUS65_clone070525-BKPAUTCITEL-20250523-1019
+2025-05-23 10:19:05,421 - INFO - 
+🔍 Processando block volume: GeB BancoTeste tkt 1048932_clone070525
+2025-05-23 10:19:05,544 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:19:12,433 - INFO - ✅ Backup criado: BlockBackup-GeB BancoTeste tkt 1048932_clone070525-BKPAUTCITEL-20250523-1019
+2025-05-23 10:19:12,974 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus19_BelaTintas_clone070525
+2025-05-23 10:19:13,277 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus19_BelaTintas_clone070525-BKPAUTCITEL-20250523-1019
+2025-05-23 10:19:13,797 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus11_clone2904_clone070525
+2025-05-23 10:19:13,919 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:19:23,569 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus11_clone2904_clone070525-BKPAUTCITEL-20250523-1019
+2025-05-23 10:19:24,119 - INFO - 
+🔍 Processando block volume: LinuxTSPlus11_BancoPRODJRPais_clone2904_clone070525
+2025-05-23 10:19:24,242 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:19:32,773 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus11_BancoPRODJRPais_clone2904_clone070525-BKPAUTCITEL-20250523-1019
+2025-05-23 10:19:33,294 - INFO - 
+🔍 Processando block volume: LinuxTSPlus30_Banco1LinuxTSPlus30_clone2904_clone070525
+2025-05-23 10:19:33,576 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus30_Banco1LinuxTSPlus30_clone2904_clone070525-BKPAUTCITEL-20250523-1019
+2025-05-23 10:19:34,102 - INFO - 
+🔍 Processando block volume: Banco-1-LinuxData012_clone070525
+2025-05-23 10:19:34,225 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:19:39,762 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:19:55,072 - INFO - ✅ Backup criado: BlockBackup-Banco-1-LinuxData012_clone070525-BKPAUTCITEL-20250523-1019
+2025-05-23 10:19:55,591 - INFO - 
+🔍 Processando block volume: Banco2-LinuxData012_clone070525
+2025-05-23 10:19:55,713 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:20:03,903 - INFO - ✅ Backup criado: BlockBackup-Banco2-LinuxData012_clone070525-BKPAUTCITEL-20250523-1019
+2025-05-23 10:20:04,445 - INFO - 
+🔍 Processando block volume: Banco3-LinuxData012_clone070525
+2025-05-23 10:20:04,725 - INFO - ✅ Backup criado: BlockBackup-Banco3-LinuxData012_clone070525-BKPAUTCITEL-20250523-1020
+2025-05-23 10:20:05,256 - INFO - 
+🔍 Processando block volume: LinuxTSPlus10_BKOPalacioTKT651385_clone2904_clone070525
+2025-05-23 10:20:05,533 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus10_BKOPalacioTKT651385_clone2904_clone070525-BKPAUTCITEL-20250523-1020
+2025-05-23 10:20:06,124 - INFO - 
+🔍 Processando block volume: LinuxTSPlus10_Banco4LinuxTSPlus10_clone2904_clone070525
+2025-05-23 10:20:06,466 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus10_Banco4LinuxTSPlus10_clone2904_clone070525-BKPAUTCITEL-20250523-1020
+2025-05-23 10:20:06,992 - INFO - 
+🔍 Processando block volume: LinuxTSPlus10_Banco5LinuxTSPlus10_clone2904_clone070525
+2025-05-23 10:20:07,279 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus10_Banco5LinuxTSPlus10_clone2904_clone070525-BKPAUTCITEL-20250523-1020
+2025-05-23 10:20:07,788 - INFO - 
+🔍 Processando block volume: LinuxTSPlus10_GeB_clone2904_clone070525
+2025-05-23 10:20:07,911 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:20:15,706 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus10_GeB_clone2904_clone070525-BKPAUTCITEL-20250523-1020
+2025-05-23 10:20:16,227 - INFO - 
+🔍 Processando block volume: LinuxTSPlus55_Banco1BR55_clone2904_clone070525
+2025-05-23 10:20:16,512 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus55_Banco1BR55_clone2904_clone070525-BKPAUTCITEL-20250523-1020
+2025-05-23 10:20:17,034 - INFO - 
+🔍 Processando block volume: LinuxTSPlus55_Banco3BR55_clone2904_clone070525
+2025-05-23 10:20:17,157 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:20:23,500 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus55_Banco3BR55_clone2904_clone070525-BKPAUTCITEL-20250523-1020
+2025-05-23 10:20:24,023 - INFO - 
+🔍 Processando block volume: LinuxTSPlus65_Banco1LinuxTSPLUS65_clone2904_clone070525
+2025-05-23 10:20:24,298 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus65_Banco1LinuxTSPLUS65_clone2904_clone070525-BKPAUTCITEL-20250523-1020
+2025-05-23 10:20:24,828 - INFO - 
+🔍 Processando block volume: LinuxTSPlus65_Banco2LinuxTSPLUS65_clone2904_clone070525
+2025-05-23 10:20:25,132 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus65_Banco2LinuxTSPLUS65_clone2904_clone070525-BKPAUTCITEL-20250523-1020
+2025-05-23 10:20:25,648 - INFO - 
+🔍 Processando block volume: LinuxTSPlus65_Banco3LinuxTSPLUS65_clone2904_clone070525
+2025-05-23 10:20:25,947 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus65_Banco3LinuxTSPLUS65_clone2904_clone070525-BKPAUTCITEL-20250523-1020
+2025-05-23 10:20:26,480 - INFO - 
+🔍 Processando block volume: LinuxTSPlus65_BinariosLinuxTSPLUS65_clone2904_clone070525
+2025-05-23 10:20:26,603 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:20:34,039 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:20:49,429 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-23 10:21:10,497 - WARNING - ⚠️ Tentativa 4: Limite de requisições. Aguardando 40s...
+2025-05-23 10:21:53,124 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus65_BinariosLinuxTSPLUS65_clone2904_clone070525-BKPAUTCITEL-20250523-1020
+2025-05-23 10:21:53,650 - INFO - 
+🔍 Processando block volume: LinuxTSPlus28_Banco2LinuxTSPlus28_clone2904_clone070525
+2025-05-23 10:21:53,948 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus28_Banco2LinuxTSPlus28_clone2904_clone070525-BKPAUTCITEL-20250523-1021
+2025-05-23 10:21:54,477 - INFO - 
+🔍 Processando block volume: LinuxTSPlus28_bancos3_BR28_clone2904_clone070525
+2025-05-23 10:21:54,827 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus28_bancos3_BR28_clone2904_clone070525-BKPAUTCITEL-20250523-1021
+2025-05-23 10:21:55,352 - INFO - 
+🔍 Processando block volume: LinuxTSPlus29_Banco1LinuxTSPlus29_clone2904_clone070525
+2025-05-23 10:21:55,620 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus29_Banco1LinuxTSPlus29_clone2904_clone070525-BKPAUTCITEL-20250523-1021
+2025-05-23 10:21:56,151 - INFO - 
+🔍 Processando block volume: LinuxTSPlus29_Bancos2_BR29_clone2904_clone070525
+2025-05-23 10:21:56,480 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus29_Bancos2_BR29_clone2904_clone070525-BKPAUTCITEL-20250523-1021
+2025-05-23 10:21:56,999 - INFO - 
+🔍 Processando block volume: LinuxTSPlus29_Bancos3_BR29_clone2904_clone070525
+2025-05-23 10:21:57,320 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus29_Bancos3_BR29_clone2904_clone070525-BKPAUTCITEL-20250523-1021
+2025-05-23 10:21:57,861 - INFO - 
+🔍 Processando block volume: LinuxTSPlus72_Banco2BR_72_clone2904_clone070525
+2025-05-23 10:21:58,208 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus72_Banco2BR_72_clone2904_clone070525-BKPAUTCITEL-20250523-1021
+2025-05-23 10:21:58,770 - INFO - 
+🔍 Processando block volume: LinuxTSPlus72_BancoBR_clone2904_clone070525
+2025-05-23 10:21:59,053 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus72_BancoBR_clone2904_clone070525-BKPAUTCITEL-20250523-1021
+2025-05-23 10:21:59,572 - INFO - 
+🔍 Processando block volume: LinuxTSPlus43_Banco1LinuxTSPLUS43_clone2904_clone070525
+2025-05-23 10:21:59,920 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus43_Banco1LinuxTSPLUS43_clone2904_clone070525-BKPAUTCITEL-20250523-1021
+2025-05-23 10:22:00,448 - INFO - 
+🔍 Processando block volume: LinuxTSPlus43_HD4-LinuxDBA_clone2904_clone070525
+2025-05-23 10:22:00,742 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus43_HD4-LinuxDBA_clone2904_clone070525-BKPAUTCITEL-20250523-1022
+2025-05-23 10:22:01,264 - INFO - 
+🔍 Processando block volume: LinuxTSPlus50_Banco1LinuxTSPlus50_clone2904_clone070525
+2025-05-23 10:22:01,386 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:22:08,887 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus50_Banco1LinuxTSPlus50_clone2904_clone070525-BKPAUTCITEL-20250523-1022
+2025-05-23 10:22:09,412 - INFO - 
+🔍 Processando block volume: LinuxTSPlus37_Banco1LinuxTSPLUS37_clone2904_clone070525
+2025-05-23 10:22:09,536 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:22:19,636 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:22:33,864 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus37_Banco1LinuxTSPLUS37_clone2904_clone070525-BKPAUTCITEL-20250523-1022
+2025-05-23 10:22:34,388 - INFO - 
+🔍 Processando block volume: LinuxTSPlus37_Banco2LinuxTSPLUS37_clone2904_clone070525
+2025-05-23 10:22:34,512 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:22:41,801 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:22:56,534 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus37_Banco2LinuxTSPLUS37_clone2904_clone070525-BKPAUTCITEL-20250523-1022
+2025-05-23 10:22:57,066 - INFO - 
+🔍 Processando block volume: LinuxTSPlus37_Banco1LinuxTSPLUS40_clone2904_clone070525
+2025-05-23 10:22:57,338 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus37_Banco1LinuxTSPLUS40_clone2904_clone070525-BKPAUTCITEL-20250523-1022
+2025-05-23 10:22:57,870 - INFO - 
+🔍 Processando block volume: LinuxTSPlus32_Banco1LinuxTSPLUS32_clone2904_clone070525
+2025-05-23 10:22:58,182 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus32_Banco1LinuxTSPLUS32_clone2904_clone070525-BKPAUTCITEL-20250523-1022
+2025-05-23 10:22:58,692 - INFO - 
+🔍 Processando block volume: LinuxTSPlus32_Banco2LinuxTSPLUS32_clone2904_clone070525
+2025-05-23 10:22:58,817 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:23:07,783 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:23:18,557 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus32_Banco2LinuxTSPLUS32_clone2904_clone070525-BKPAUTCITEL-20250523-1022
+2025-05-23 10:23:19,082 - INFO - 
+🔍 Processando block volume: LinuxTSPlus2_Banco1LinuxTSPlus2_clone2904_clone070525
+2025-05-23 10:23:19,371 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus2_Banco1LinuxTSPlus2_clone2904_clone070525-BKPAUTCITEL-20250523-1023
+2025-05-23 10:23:19,888 - INFO - 
+🔍 Processando block volume: LinuxTSPlus2_Banco_PalacioFerramentas_clone2904_clone070525
+2025-05-23 10:23:20,159 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus2_Banco_PalacioFerramentas_clone2904_clone070525-BKPAUTCITEL-20250523-1023
+2025-05-23 10:23:20,678 - INFO - 
+🔍 Processando block volume: LinuxTSPlus2_Bancos2_BR02_clone2904_clone070525
+2025-05-23 10:23:20,801 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:23:29,944 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus2_Bancos2_BR02_clone2904_clone070525-BKPAUTCITEL-20250523-1023
+2025-05-23 10:23:30,463 - INFO - 
+🔍 Processando block volume: LinuxTSPlus25_Banco1LinuxTSPlus25_clone2904_clone070525
+2025-05-23 10:23:30,585 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:23:39,530 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus25_Banco1LinuxTSPlus25_clone2904_clone070525-BKPAUTCITEL-20250523-1023
+2025-05-23 10:23:40,067 - INFO - 
+🔍 Processando block volume: LinuxTSPlus25_Bancos3_BR25_clone2904_clone070525
+2025-05-23 10:23:40,348 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus25_Bancos3_BR25_clone2904_clone070525-BKPAUTCITEL-20250523-1023
+2025-05-23 10:23:40,877 - INFO - 
+🔍 Processando block volume: LinuxTSPlus1_Banco3LinuxTSPlus1_clone2904_clone070525
+2025-05-23 10:23:41,000 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:23:48,798 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus1_Banco3LinuxTSPlus1_clone2904_clone070525-BKPAUTCITEL-20250523-1023
+2025-05-23 10:23:49,318 - INFO - 
+🔍 Processando block volume: LinuxTSPlus1_Bancos4_BR01_clone2904_clone070525
+2025-05-23 10:23:49,593 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus1_Bancos4_BR01_clone2904_clone070525-BKPAUTCITEL-20250523-1023
+2025-05-23 10:23:50,108 - INFO - 
+🔍 Processando block volume: LinuxTSPlus1_Bancos5_BR1_clone2904_clone070525
+2025-05-23 10:23:50,230 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:23:57,395 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus1_Bancos5_BR1_clone2904_clone070525-BKPAUTCITEL-20250523-1023
+2025-05-23 10:23:57,913 - INFO - 
+🔍 Processando block volume: LinuxTSPlus1_blockvolume_clone2904_clone070525
+2025-05-23 10:23:58,214 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus1_blockvolume_clone2904_clone070525-BKPAUTCITEL-20250523-1023
+2025-05-23 10:23:58,738 - INFO - 
+🔍 Processando block volume: Banco2-LinuxData013_clone070525
+2025-05-23 10:23:59,011 - INFO - ✅ Backup criado: BlockBackup-Banco2-LinuxData013_clone070525-BKPAUTCITEL-20250523-1023
+2025-05-23 10:23:59,537 - INFO - 
+🔍 Processando block volume: Banco3-LinuxData013_clone070525
+2025-05-23 10:23:59,823 - INFO - ✅ Backup criado: BlockBackup-Banco3-LinuxData013_clone070525-BKPAUTCITEL-20250523-1023
+2025-05-23 10:24:00,343 - INFO - 
+🔍 Processando block volume: Banco1-LinuxData013_clone070525
+2025-05-23 10:24:00,682 - INFO - ✅ Backup criado: BlockBackup-Banco1-LinuxData013_clone070525-BKPAUTCITEL-20250523-1024
+2025-05-23 10:24:01,213 - INFO - 
+🔍 Processando block volume: LinuxTSPlus14_BackupCoresVivas TKT 902822_clone2904_clone070525
+2025-05-23 10:24:01,336 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:24:07,831 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus14_BackupCoresVivas TKT 902822_clone2904_clone070525-BKPAUTCITEL-20250523-1024
+2025-05-23 10:24:08,362 - INFO - 
+🔍 Processando block volume: LinuxTSPlus14_Banco2LinuxTSPlus14_clone2904_clone070525
+2025-05-23 10:24:08,641 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus14_Banco2LinuxTSPlus14_clone2904_clone070525-BKPAUTCITEL-20250523-1024
+2025-05-23 10:24:09,161 - INFO - 
+🔍 Processando block volume: LinuxTSPlus9-Banco1LinuxTSPlus9-clone2904_clone070525
+2025-05-23 10:24:09,466 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus9-Banco1LinuxTSPlus9-clone2904_clone070525-BKPAUTCITEL-20250523-1024
+2025-05-23 10:24:09,988 - INFO - 
+🔍 Processando block volume: LinuxTSPlus9-Banco3LinuxTSPlus9-clone2904_clone070525
+2025-05-23 10:24:10,273 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus9-Banco3LinuxTSPlus9-clone2904_clone070525-BKPAUTCITEL-20250523-1024
+2025-05-23 10:24:10,800 - INFO - 
+🔍 Processando block volume: LinuxTSPlus14_BancoUbertintasTSPlus14_clone2904_clone070525
+2025-05-23 10:24:10,923 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:24:16,907 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:24:29,390 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus14_BancoUbertintasTSPlus14_clone2904_clone070525-BKPAUTCITEL-20250523-1024
+2025-05-23 10:24:29,933 - INFO - 
+🔍 Processando block volume: LinuxTSPlus9-Bancos4_BR9-clone2904_clone070525
+2025-05-23 10:24:30,056 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:24:40,564 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus9-Bancos4_BR9-clone2904_clone070525-BKPAUTCITEL-20250523-1024
+2025-05-23 10:24:41,095 - INFO - 
+🔍 Processando block volume: LinuxTSPlus8-Banco1LinuxTSPlus8-clone2904_clone070525
+2025-05-23 10:24:41,367 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus8-Banco1LinuxTSPlus8-clone2904_clone070525-BKPAUTCITEL-20250523-1024
+2025-05-23 10:24:41,888 - INFO - 
+🔍 Processando block volume: LinuxTSPlus8-Banco3LinuxTSPlus8-clone2904_clone070525
+2025-05-23 10:24:42,011 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:24:48,301 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus8-Banco3LinuxTSPlus8-clone2904_clone070525-BKPAUTCITEL-20250523-1024
+2025-05-23 10:24:48,826 - INFO - 
+🔍 Processando block volume: LinuxTSPlus16_Banco1LinuxTSPlus16_clone2904_clone070525
+2025-05-23 10:24:48,953 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:24:56,940 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus16_Banco1LinuxTSPlus16_clone2904_clone070525-BKPAUTCITEL-20250523-1024
+2025-05-23 10:24:57,469 - INFO - 
+🔍 Processando block volume: LinuxTSPlus16_Banco2LinuxTSPlus16_clone2904_clone070525
+2025-05-23 10:24:57,738 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus16_Banco2LinuxTSPlus16_clone2904_clone070525-BKPAUTCITEL-20250523-1024
+2025-05-23 10:24:58,266 - INFO - 
+🔍 Processando block volume: LinuxTSPlus7-Banco2LinuxTSPlus7-block-clone2904_clone070525
+2025-05-23 10:24:58,388 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:25:06,871 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:25:21,683 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus7-Banco2LinuxTSPlus7-block-clone2904_clone070525-BKPAUTCITEL-20250523-1024
+2025-05-23 10:25:22,214 - INFO - 
+🔍 Processando block volume: LinuxTSPlus7-Banco3LinuxTSPlus7-block-clone2904_clone070525
+2025-05-23 10:25:22,545 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus7-Banco3LinuxTSPlus7-block-clone2904_clone070525-BKPAUTCITEL-20250523-1025
+2025-05-23 10:25:23,071 - INFO - 
+🔍 Processando block volume: LinuxTSPlus7-Banco3_BR7-block-clone2904_clone070525
+2025-05-23 10:25:23,360 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus7-Banco3_BR7-block-clone2904_clone070525-BKPAUTCITEL-20250523-1025
+2025-05-23 10:25:23,897 - INFO - 
+🔍 Processando block volume: LinuxTSPlus17_Banco2LinuxTSPlus17_clone2904_clone070525
+2025-05-23 10:25:24,021 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:25:29,744 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus17_Banco2LinuxTSPlus17_clone2904_clone070525-BKPAUTCITEL-20250523-1025
+2025-05-23 10:25:30,270 - INFO - 
+🔍 Processando block volume: LinuxTSPlus17_BancoPRODBelaTintas_clone2904_clone070525
+2025-05-23 10:25:30,392 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:25:40,499 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus17_BancoPRODBelaTintas_clone2904_clone070525-BKPAUTCITEL-20250523-1025
+2025-05-23 10:25:41,033 - INFO - 
+🔍 Processando block volume: LinuxTSPlus17_HD5-LinuxDBAs_clone2904_clone070525
+2025-05-23 10:25:41,396 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus17_HD5-LinuxDBAs_clone2904_clone070525-BKPAUTCITEL-20250523-1025
+2025-05-23 10:25:41,958 - INFO - 
+🔍 Processando block volume: LinuxTSPlus6-Banco3LinuxTSPlus6-block-clone2904_clone070525
+2025-05-23 10:25:42,080 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:25:47,767 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:25:59,938 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus6-Banco3LinuxTSPlus6-block-clone2904_clone070525-BKPAUTCITEL-20250523-1025
+2025-05-23 10:26:00,479 - INFO - 
+🔍 Processando block volume: LinuxTSPlus6-Banco4LinuxTSPlus6-block-clone2904_clone070525
+2025-05-23 10:26:00,792 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus6-Banco4LinuxTSPlus6-block-clone2904_clone070525-BKPAUTCITEL-20250523-1026
+2025-05-23 10:26:01,316 - INFO - 
+🔍 Processando block volume: LinuxTSPlus18-Banco1LinuxTSPlus18-block-2904_clone070525
+2025-05-23 10:26:01,581 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus18-Banco1LinuxTSPlus18-block-2904_clone070525-BKPAUTCITEL-20250523-1026
+2025-05-23 10:26:02,102 - INFO - 
+🔍 Processando block volume: LinuxTSPlus18-Banco2LinuxTSPlus18-block-2904_clone070525
+2025-05-23 10:26:02,391 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus18-Banco2LinuxTSPlus18-block-2904_clone070525-BKPAUTCITEL-20250523-1026
+2025-05-23 10:26:02,916 - INFO - 
+🔍 Processando block volume: LinuxTSPlus18-Bancos4_BR18-block-2904_clone070525
+2025-05-23 10:26:03,195 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus18-Bancos4_BR18-block-2904_clone070525-BKPAUTCITEL-20250523-1026
+2025-05-23 10:26:03,703 - INFO - 
+🔍 Processando block volume: LinuxTsplus59-Banco2Linux59-block-clone2904_clone070525
+2025-05-23 10:26:03,826 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:26:12,490 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:26:27,600 - INFO - ✅ Backup criado: BlockBackup-LinuxTsplus59-Banco2Linux59-block-clone2904_clone070525-BKPAUTCITEL-20250523-1026
+2025-05-23 10:26:28,121 - INFO - 
+🔍 Processando block volume: LinuxTsplus59-BancoLinux59-block-clone2904_clone070525
+2025-05-23 10:26:28,428 - INFO - ✅ Backup criado: BlockBackup-LinuxTsplus59-BancoLinux59-block-clone2904_clone070525-BKPAUTCITEL-20250523-1026
+2025-05-23 10:26:29,014 - INFO - 
+🔍 Processando block volume: LinuxTSPlus19_Banco1LinuxTSPlus19_clone2904_clone070525
+2025-05-23 10:26:29,139 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:26:37,810 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:26:50,198 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus19_Banco1LinuxTSPlus19_clone2904_clone070525-BKPAUTCITEL-20250523-1026
+2025-05-23 10:26:50,722 - INFO - 
+🔍 Processando block volume: LinuxTSPlus19_Banco3LinuxTSPlus19_clone2904_clone070525
+2025-05-23 10:26:51,019 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus19_Banco3LinuxTSPlus19_clone2904_clone070525-BKPAUTCITEL-20250523-1026
+2025-05-23 10:26:51,550 - INFO - 
+🔍 Processando block volume: LinuxTSPlus20_Banco1LinuxTSPlus20_clone2904_clone070525
+2025-05-23 10:26:51,833 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus20_Banco1LinuxTSPlus20_clone2904_clone070525-BKPAUTCITEL-20250523-1026
+2025-05-23 10:26:52,347 - INFO - 
+🔍 Processando block volume: LinuxTSPlus20_Banco2LinuxTSPlus20_clone2904_clone070525
+2025-05-23 10:26:52,470 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:27:00,006 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:27:15,460 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus20_Banco2LinuxTSPlus20_clone2904_clone070525-BKPAUTCITEL-20250523-1026
+2025-05-23 10:27:15,987 - INFO - 
+🔍 Processando block volume: LinuxTSPlus20_Banco3_BR20_clone2904_clone070525
+2025-05-23 10:27:16,317 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus20_Banco3_BR20_clone2904_clone070525-BKPAUTCITEL-20250523-1027
+2025-05-23 10:27:16,854 - INFO - 
+🔍 Processando block volume: LinuxTSPlus20_Banco4LinuxTSPlus20_clone2904_clone070525
+2025-05-23 10:27:16,977 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:27:27,212 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus20_Banco4LinuxTSPlus20_clone2904_clone070525-BKPAUTCITEL-20250523-1027
+2025-05-23 10:27:27,741 - INFO - 
+🔍 Processando block volume: LinuxTSPlus5-Banco3LinuxBR5-block-clone2904_clone070525
+2025-05-23 10:27:27,863 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:27:37,411 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus5-Banco3LinuxBR5-block-clone2904_clone070525-BKPAUTCITEL-20250523-1027
+2025-05-23 10:27:37,942 - INFO - 
+🔍 Processando block volume: LinuxTSPlus5-Banco2LinuxBR5-block-clone2904_clone070525
+2025-05-23 10:27:38,238 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus5-Banco2LinuxBR5-block-clone2904_clone070525-BKPAUTCITEL-20250523-1027
+2025-05-23 10:27:38,761 - INFO - 
+🔍 Processando block volume: Banco1-LinuxData004_clone070525
+2025-05-23 10:27:39,132 - INFO - ✅ Backup criado: BlockBackup-Banco1-LinuxData004_clone070525-BKPAUTCITEL-20250523-1027
+2025-05-23 10:27:39,664 - INFO - 
+🔍 Processando block volume: Banco2-LinuxData004_clone070525
+2025-05-23 10:27:40,010 - INFO - ✅ Backup criado: BlockBackup-Banco2-LinuxData004_clone070525-BKPAUTCITEL-20250523-1027
+2025-05-23 10:27:40,537 - INFO - 
+🔍 Processando block volume: Banco3-LinuxData004_clone070525
+2025-05-23 10:27:40,660 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:27:47,820 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:28:00,519 - INFO - ✅ Backup criado: BlockBackup-Banco3-LinuxData004_clone070525-BKPAUTCITEL-20250523-1027
+2025-05-23 10:28:01,044 - INFO - 
+🔍 Processando block volume: LinuxTSPlus48-block-Restore_clone070525
+2025-05-23 10:28:01,472 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus48-block-Restore_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:28:01,998 - INFO - 
+🔍 Processando block volume: LinuxData007-Banco4_clone070525
+2025-05-23 10:28:02,120 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:28:11,759 - INFO - ✅ Backup criado: BlockBackup-LinuxData007-Banco4_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:28:12,287 - INFO - 
+🔍 Processando block volume: Banco2LinuxBR21-Restore_clone070525
+2025-05-23 10:28:12,577 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxBR21-Restore_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:28:13,122 - INFO - 
+🔍 Processando block volume: LinuxTSPlus41-block-Restore_clone070525
+2025-05-23 10:28:13,244 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:28:23,138 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus41-block-Restore_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:28:23,668 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus26-Restore_clone070525
+2025-05-23 10:28:23,950 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus26-Restore_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:28:24,473 - INFO - 
+🔍 Processando block volume: LinuxTSPlus36-block-Restore_clone070525
+2025-05-23 10:28:24,783 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus36-block-Restore_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:28:25,322 - INFO - 
+🔍 Processando block volume: LinuxTSPlus34-Bancos3_BR34-backup-Restore_clone070525
+2025-05-23 10:28:25,634 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus34-Bancos3_BR34-backup-Restore_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:28:26,168 - INFO - 
+🔍 Processando block volume: LinuxTSPlus34-Bancos2_BR34-backup-Restore_clone070525
+2025-05-23 10:28:26,494 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus34-Bancos2_BR34-backup-Restore_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:28:27,031 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPLUS33-Restore_clone070525
+2025-05-23 10:28:27,318 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPLUS33-Restore_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:28:27,851 - INFO - 
+🔍 Processando block volume: Banco2BR33-Restore_clone070525
+2025-05-23 10:28:28,139 - INFO - ✅ Backup criado: BlockBackup-Banco2BR33-Restore_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:28:28,666 - INFO - 
+🔍 Processando block volume: LinuxTSPlus34-Banco1LinuxTSPLUS34-backup-Restore_clone070525
+2025-05-23 10:28:28,793 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:28:38,637 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:28:51,562 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus34-Banco1LinuxTSPLUS34-backup-Restore_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:28:52,097 - INFO - 
+🔍 Processando block volume: LinuxTSPlus1-Restore1_clone070525
+2025-05-23 10:28:52,387 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus1-Restore1_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:28:52,917 - INFO - 
+🔍 Processando block volume: Bancos5_BR1-Restore2_clone070525
+2025-05-23 10:28:53,041 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:29:02,534 - INFO - ✅ Backup criado: BlockBackup-Bancos5_BR1-Restore2_clone070525-BKPAUTCITEL-20250523-1028
+2025-05-23 10:29:03,078 - INFO - 
+🔍 Processando block volume: Bancos4_BR01-Restore3_clone070525
+2025-05-23 10:29:03,454 - INFO - ✅ Backup criado: BlockBackup-Bancos4_BR01-Restore3_clone070525-BKPAUTCITEL-20250523-1029
+2025-05-23 10:29:03,976 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus1-Restore4_clone070525
+2025-05-23 10:29:04,245 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus1-Restore4_clone070525-BKPAUTCITEL-20250523-1029
+2025-05-23 10:29:04,755 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus24-Restore_clone070525
+2025-05-23 10:29:04,877 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:29:10,937 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus24-Restore_clone070525-BKPAUTCITEL-20250523-1029
+2025-05-23 10:29:11,464 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus22-Restore_clone070525
+2025-05-23 10:29:11,769 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus22-Restore_clone070525-BKPAUTCITEL-20250523-1029
+2025-05-23 10:29:12,294 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus22-Restore_clone070525
+2025-05-23 10:29:12,588 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus22-Restore_clone070525-BKPAUTCITEL-20250523-1029
+2025-05-23 10:29:13,108 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus22-Restore_clone070525
+2025-05-23 10:29:13,381 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus22-Restore_clone070525-BKPAUTCITEL-20250523-1029
+2025-05-23 10:29:13,936 - INFO - 
+🔍 Processando block volume: LinuxData010-PalacioTKT651385_clone070525
+2025-05-23 10:29:14,214 - INFO - ✅ Backup criado: BlockBackup-LinuxData010-PalacioTKT651385_clone070525-BKPAUTCITEL-20250523-1029
+2025-05-23 10:29:14,737 - INFO - 
+🔍 Processando block volume: LinuxData010-Banco4_clone070525
+2025-05-23 10:29:15,009 - INFO - ✅ Backup criado: BlockBackup-LinuxData010-Banco4_clone070525-BKPAUTCITEL-20250523-1029
+2025-05-23 10:29:15,531 - INFO - 
+🔍 Processando block volume: LinuxData010-Banco5_clone070525
+2025-05-23 10:29:15,653 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:29:23,861 - INFO - ✅ Backup criado: BlockBackup-LinuxData010-Banco5_clone070525-BKPAUTCITEL-20250523-1029
+2025-05-23 10:29:24,397 - INFO - 
+🔍 Processando block volume: LinuxData010-GeB_clone070525
+2025-05-23 10:29:24,526 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:29:30,841 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:29:44,747 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-23 10:30:05,430 - WARNING - ⚠️ Tentativa 4: Limite de requisições. Aguardando 40s...
+2025-05-23 10:30:50,270 - INFO - ✅ Backup criado: BlockBackup-LinuxData010-GeB_clone070525-BKPAUTCITEL-20250523-1029
+2025-05-23 10:30:50,800 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus1-Restore4_copy_30-04-2025_clone070525
+2025-05-23 10:30:51,074 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus1-Restore4_copy_30-04-2025_clone070525-BKPAUTCITEL-20250523-1030
+2025-05-23 10:30:51,600 - INFO - 
+🔍 Processando block volume: Bancos5_BR1-Restore2_Copu_30-04-2025_clone070525
+2025-05-23 10:30:51,873 - INFO - ✅ Backup criado: BlockBackup-Bancos5_BR1-Restore2_Copu_30-04-2025_clone070525-BKPAUTCITEL-20250523-1030
+2025-05-23 10:30:52,394 - INFO - 
+🔍 Processando block volume: LinuxTSPlus1-Restore1_Copy_30-04-2025_clone070525
+2025-05-23 10:30:52,666 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus1-Restore1_Copy_30-04-2025_clone070525-BKPAUTCITEL-20250523-1030
+2025-05-23 10:30:53,190 - INFO - 
+🔍 Processando block volume: Bancos4_BR01-Restore3_Copy_30-04-2025_clone070525
+2025-05-23 10:30:53,312 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:31:01,391 - INFO - ✅ Backup criado: BlockBackup-Bancos4_BR01-Restore3_Copy_30-04-2025_clone070525-BKPAUTCITEL-20250523-1030
+2025-05-23 10:31:01,922 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus2_Copy_30-04-2025_clone070525
+2025-05-23 10:31:02,045 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:31:11,253 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-23 10:31:22,221 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus2_Copy_30-04-2025_clone070525-BKPAUTCITEL-20250523-1031
+2025-05-23 10:31:22,751 - INFO - 
+🔍 Processando block volume: Banco_PalacioFerramentas_Copy_30-04-2025_clone070525
+2025-05-23 10:31:22,874 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:31:32,090 - INFO - ✅ Backup criado: BlockBackup-Banco_PalacioFerramentas_Copy_30-04-2025_clone070525-BKPAUTCITEL-20250523-1031
+2025-05-23 10:31:32,619 - INFO - 
+🔍 Processando block volume: LinuxData002_Bancos2_BR02_Copy_30-04-2025_clone070525
+2025-05-23 10:31:32,918 - INFO - ✅ Backup criado: BlockBackup-LinuxData002_Bancos2_BR02_Copy_30-04-2025_clone070525-BKPAUTCITEL-20250523-1031
+2025-05-23 10:31:33,448 - INFO - 
+🔍 Processando block volume: LinuxData020-Banco3_BR20_clone070525
+2025-05-23 10:31:33,573 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:31:42,709 - INFO - ✅ Backup criado: BlockBackup-LinuxData020-Banco3_BR20_clone070525-BKPAUTCITEL-20250523-1031
+2025-05-23 10:31:43,235 - INFO - 
+🔍 Processando block volume: Banco3_BR20-RESTORE_FILES_clone070525
+2025-05-23 10:31:43,570 - INFO - ✅ Backup criado: BlockBackup-Banco3_BR20-RESTORE_FILES_clone070525-BKPAUTCITEL-20250523-1031
+2025-05-23 10:31:44,108 - INFO - 
+🔍 Processando block volume: LinuxData030_clone06052025_clone070525
+2025-05-23 10:31:44,424 - INFO - ✅ Backup criado: BlockBackup-LinuxData030_clone06052025_clone070525-BKPAUTCITEL-20250523-1031
+2025-05-23 10:31:44,951 - INFO - 
+🔍 Processando block volume: LinuxDataBelaTintas_Replica
+2025-05-23 10:31:45,233 - INFO - ✅ Backup criado: BlockBackup-LinuxDataBelaTintas_Replica-BKPAUTCITEL-20250523-1031
+2025-05-23 10:31:45,754 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus1-Replica
+2025-05-23 10:31:45,880 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-23 10:31:56,454 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus1-Replica-BKPAUTCITEL-20250523-1031
+2025-05-23 10:31:56,996 - INFO - 
+🔍 Processando block volume: Bancos4_BR01-Replica
+2025-05-23 10:31:57,276 - INFO - ✅ Backup criado: BlockBackup-Bancos4_BR01-Replica-BKPAUTCITEL-20250523-1031
+2025-05-23 10:31:57,800 - INFO - 
+🔍 Processando block volume: Bancos5_BR1-Replica
+2025-05-23 10:31:58,097 - INFO - ✅ Backup criado: BlockBackup-Bancos5_BR1-Replica-BKPAUTCITEL-20250523-1031
+2025-05-23 10:31:58,620 - INFO - 
+🔍 Processando block volume: LinuxTSPlus1-Replica
+2025-05-23 10:31:58,915 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus1-Replica-BKPAUTCITEL-20250523-1031
+2025-05-23 10:31:59,430 - INFO - 
+🔍 Processando block volume: Banco1-LinuxData004_Replica-Teste
+2025-05-23 10:31:59,715 - INFO - ✅ Backup criado: BlockBackup-Banco1-LinuxData004_Replica-Teste-BKPAUTCITEL-20250523-1031
+2025-05-23 10:32:00,244 - INFO - 
+✅ Execução concluída com sucesso

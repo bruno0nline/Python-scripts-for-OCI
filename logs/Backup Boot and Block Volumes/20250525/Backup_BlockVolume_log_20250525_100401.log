@@ -1,0 +1,669 @@
+2025-05-25 10:04:04,806 - INFO - 
+🔍 Processando block volume: LinuxTSPlus1
+2025-05-25 10:04:05,093 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus1-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:05,294 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:05,295 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus2
+2025-05-25 10:04:05,564 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus2-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:06,140 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:06,140 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus4
+2025-05-25 10:04:06,424 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus4-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:06,611 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:06,611 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus20
+2025-05-25 10:04:06,895 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus20-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:07,474 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:07,475 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus1
+2025-05-25 10:04:07,801 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus1-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:07,991 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:07,991 - INFO - 
+🔍 Processando block volume: Banco_PalacioFerramentas
+2025-05-25 10:04:08,284 - INFO - ✅ Backup criado: BlockBackup-Banco_PalacioFerramentas-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:08,844 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:08,845 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus25
+2025-05-25 10:04:08,969 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:04:16,627 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus25-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:16,830 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:16,830 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus30
+2025-05-25 10:04:17,149 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus30-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:17,709 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:17,709 - INFO - 
+🔍 Processando block volume: Banco5LinuxTSPlus10
+2025-05-25 10:04:17,999 - INFO - ✅ Backup criado: BlockBackup-Banco5LinuxTSPlus10-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:18,210 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus20
+2025-05-25 10:04:18,576 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus20-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:19,153 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:19,153 - INFO - 
+🔍 Processando block volume: Banco2BR24
+2025-05-25 10:04:19,278 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:04:25,690 - INFO - ✅ Backup criado: BlockBackup-Banco2BR24-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:25,883 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:25,883 - INFO - 
+🔍 Processando block volume: LinuxDataBelaTintas
+2025-05-25 10:04:26,227 - INFO - ✅ Backup criado: BlockBackup-LinuxDataBelaTintas-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:26,804 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:26,804 - INFO - 
+🔍 Processando block volume: Bancos2_BR02
+2025-05-25 10:04:27,102 - INFO - ✅ Backup criado: BlockBackup-Bancos2_BR02-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:27,284 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:27,284 - INFO - 
+🔍 Processando block volume: Bancos4_BR01
+2025-05-25 10:04:27,557 - INFO - ✅ Backup criado: BlockBackup-Bancos4_BR01-BKPAUTCITEL-20250525-1004
+2025-05-25 10:04:28,116 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:04:28,116 - INFO - 
+🔍 Processando block volume: BKO Palacio TKT 651385
+2025-05-25 10:04:28,241 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:04:37,859 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:04:53,215 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-25 10:05:15,415 - INFO - ✅ Backup criado: BlockBackup-BKO Palacio TKT 651385-BKPAUTCITEL-20250525-1004
+2025-05-25 10:05:15,990 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario04
+2025-05-25 10:05:15,991 - INFO - 
+🔍 Processando block volume: Bancos3_BR25
+2025-05-25 10:05:16,305 - INFO - ✅ Backup criado: BlockBackup-Bancos3_BR25-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:16,491 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:16,491 - INFO - 
+🔍 Processando block volume: GeB
+2025-05-25 10:05:16,778 - INFO - ✅ Backup criado: BlockBackup-GeB-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:17,340 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:17,341 - INFO - 
+🔍 Processando block volume: Banco3_BR20
+2025-05-25 10:05:17,639 - INFO - ✅ Backup criado: BlockBackup-Banco3_BR20-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:17,823 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:17,823 - INFO - 
+🔍 Processando block volume: Banco_Darka
+2025-05-25 10:05:18,110 - INFO - ✅ Backup criado: BlockBackup-Banco_Darka-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:18,677 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:18,677 - INFO - 
+🔍 Processando block volume: Banco4LinuxTSPlus20
+2025-05-25 10:05:18,802 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:05:24,704 - INFO - ✅ Backup criado: BlockBackup-Banco4LinuxTSPlus20-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:24,901 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:24,902 - INFO - 
+🔍 Processando block volume: BackupGeB
+2025-05-25 10:05:25,187 - INFO - ✅ Backup criado: BlockBackup-BackupGeB-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:25,767 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:25,767 - INFO - 
+🔍 Processando block volume: BancoGeB
+2025-05-25 10:05:26,054 - INFO - ✅ Backup criado: BlockBackup-BancoGeB-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:26,626 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:26,626 - INFO - 
+🔍 Processando block volume: Bancos5_BR1
+2025-05-25 10:05:26,914 - INFO - ✅ Backup criado: BlockBackup-Bancos5_BR1-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:27,489 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:27,489 - INFO - 
+🔍 Processando block volume: BackupCoresVivas TKT 902822
+2025-05-25 10:05:27,782 - INFO - ✅ Backup criado: BlockBackup-BackupCoresVivas TKT 902822-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:27,967 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:27,968 - INFO - 
+🔍 Processando block volume: bkpBoomerVinicius
+2025-05-25 10:05:28,270 - INFO - ✅ Backup criado: BlockBackup-bkpBoomerVinicius-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:28,844 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:28,845 - INFO - 
+🔍 Processando block volume: GeB2
+2025-05-25 10:05:29,150 - INFO - ✅ Backup criado: BlockBackup-GeB2-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:29,338 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:29,338 - INFO - 
+🔍 Processando block volume: bkpParque1014464
+2025-05-25 10:05:29,610 - INFO - ✅ Backup criado: BlockBackup-bkpParque1014464-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:30,178 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:30,179 - INFO - 
+🔍 Processando block volume: bkpPedrao1020442
+2025-05-25 10:05:30,303 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:05:39,666 - INFO - ✅ Backup criado: BlockBackup-bkpPedrao1020442-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:39,858 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:39,858 - INFO - 
+🔍 Processando block volume: Backup_BR34_1031161
+2025-05-25 10:05:40,132 - INFO - ✅ Backup criado: BlockBackup-Backup_BR34_1031161-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:40,715 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:40,715 - INFO - 
+🔍 Processando block volume: GeB BancoTeste tkt 1048932
+2025-05-25 10:05:40,840 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:05:47,755 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:05:58,901 - INFO - ✅ Backup criado: BlockBackup-GeB BancoTeste tkt 1048932-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:59,103 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:59,104 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus11_clone2904
+2025-05-25 10:05:59,385 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus11_clone2904-BKPAUTCITEL-20250525-1005
+2025-05-25 10:05:59,957 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:05:59,957 - INFO - 
+🔍 Processando block volume: LinuxTSPlus11_BancoPRODJRPais_clone2904
+2025-05-25 10:06:00,082 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:06:10,649 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus11_BancoPRODJRPais_clone2904-BKPAUTCITEL-20250525-1005
+2025-05-25 10:06:11,216 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:06:11,216 - INFO - 
+🔍 Processando block volume: LinuxTSPlus30_Banco1LinuxTSPlus30_clone2904
+2025-05-25 10:06:11,340 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:06:19,830 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:06:33,434 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus30_Banco1LinuxTSPlus30_clone2904-BKPAUTCITEL-20250525-1006
+2025-05-25 10:06:34,010 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:06:34,010 - INFO - 
+🔍 Processando block volume: Banco-1-LinuxData012
+2025-05-25 10:06:34,330 - INFO - ✅ Backup criado: BlockBackup-Banco-1-LinuxData012-BKPAUTCITEL-20250525-1006
+2025-05-25 10:06:34,908 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:06:34,908 - INFO - 
+🔍 Processando block volume: Banco2-LinuxData012
+2025-05-25 10:06:35,032 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:06:41,096 - INFO - ✅ Backup criado: BlockBackup-Banco2-LinuxData012-BKPAUTCITEL-20250525-1006
+2025-05-25 10:06:41,687 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:06:41,687 - INFO - 
+🔍 Processando block volume: Banco3-LinuxData012
+2025-05-25 10:06:41,958 - INFO - ✅ Backup criado: BlockBackup-Banco3-LinuxData012-BKPAUTCITEL-20250525-1006
+2025-05-25 10:06:42,531 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:06:42,531 - INFO - 
+🔍 Processando block volume: LinuxTSPlus55_Banco1BR55_clone2904
+2025-05-25 10:06:42,812 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus55_Banco1BR55_clone2904-BKPAUTCITEL-20250525-1006
+2025-05-25 10:06:43,405 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:06:43,405 - INFO - 
+🔍 Processando block volume: LinuxTSPlus55_Banco3BR55_clone2904
+2025-05-25 10:06:43,529 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:06:52,166 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:07:04,040 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus55_Banco3BR55_clone2904-BKPAUTCITEL-20250525-1006
+2025-05-25 10:07:04,229 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:04,229 - INFO - 
+🔍 Processando block volume: LinuxTSPlus65_Banco1LinuxTSPLUS65_clone2904
+2025-05-25 10:07:04,513 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus65_Banco1LinuxTSPLUS65_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:05,089 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:05,090 - INFO - 
+🔍 Processando block volume: LinuxTSPlus65_Banco2LinuxTSPLUS65_clone2904
+2025-05-25 10:07:05,354 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus65_Banco2LinuxTSPLUS65_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:05,922 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:05,922 - INFO - 
+🔍 Processando block volume: LinuxTSPlus65_Banco3LinuxTSPLUS65_clone2904
+2025-05-25 10:07:06,194 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus65_Banco3LinuxTSPLUS65_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:06,763 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:06,763 - INFO - 
+🔍 Processando block volume: LinuxTSPlus65_BinariosLinuxTSPLUS65_clone2904
+2025-05-25 10:07:07,052 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus65_BinariosLinuxTSPLUS65_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:07,617 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:07,618 - INFO - 
+🔍 Processando block volume: LinuxTSPlus28_Banco2LinuxTSPlus28_clone2904
+2025-05-25 10:07:07,743 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:07:13,498 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus28_Banco2LinuxTSPlus28_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:14,115 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:14,116 - INFO - 
+🔍 Processando block volume: LinuxTSPlus28_bancos3_BR28_clone2904
+2025-05-25 10:07:14,240 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:07:23,212 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus28_bancos3_BR28_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:23,782 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:23,782 - INFO - 
+🔍 Processando block volume: LinuxTSPlus29_Banco1LinuxTSPlus29_clone2904
+2025-05-25 10:07:24,085 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus29_Banco1LinuxTSPlus29_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:24,656 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:24,656 - INFO - 
+🔍 Processando block volume: LinuxTSPlus29_Bancos2_BR29_clone2904
+2025-05-25 10:07:24,927 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus29_Bancos2_BR29_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:25,499 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:25,499 - INFO - 
+🔍 Processando block volume: LinuxTSPlus29_Bancos3_BR29_clone2904
+2025-05-25 10:07:25,624 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:07:35,327 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus29_Bancos3_BR29_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:35,905 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:35,905 - INFO - 
+🔍 Processando block volume: LinuxTSPlus72_Banco2BR_72_clone2904
+2025-05-25 10:07:36,251 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus72_Banco2BR_72_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:36,834 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:36,834 - INFO - 
+🔍 Processando block volume: LinuxTSPlus72_BancoBR_clone2904
+2025-05-25 10:07:37,129 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus72_BancoBR_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:37,315 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:37,315 - INFO - 
+🔍 Processando block volume: LinuxTSPlus43_Banco1LinuxTSPLUS43_clone2904
+2025-05-25 10:07:37,615 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus43_Banco1LinuxTSPLUS43_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:38,187 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:38,188 - INFO - 
+🔍 Processando block volume: LinuxTSPlus43_HD4-LinuxDBA_clone2904
+2025-05-25 10:07:38,312 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:07:45,127 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus43_HD4-LinuxDBA_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:45,331 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:45,331 - INFO - 
+🔍 Processando block volume: LinuxTSPlus50_Banco1LinuxTSPlus50_clone2904
+2025-05-25 10:07:45,651 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus50_Banco1LinuxTSPlus50_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:07:46,219 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:07:46,219 - INFO - 
+🔍 Processando block volume: LinuxTSPlus37_Banco1LinuxTSPLUS37_clone2904
+2025-05-25 10:07:46,344 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:07:56,190 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:08:07,722 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-25 10:08:30,155 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus37_Banco1LinuxTSPLUS37_clone2904-BKPAUTCITEL-20250525-1007
+2025-05-25 10:08:30,725 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:08:30,726 - INFO - 
+🔍 Processando block volume: LinuxTSPlus37_Banco2LinuxTSPLUS37_clone2904
+2025-05-25 10:08:31,062 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus37_Banco2LinuxTSPLUS37_clone2904-BKPAUTCITEL-20250525-1008
+2025-05-25 10:08:31,627 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:08:31,627 - INFO - 
+🔍 Processando block volume: LinuxTSPlus40_Banco1
+2025-05-25 10:08:31,936 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus40_Banco1-BKPAUTCITEL-20250525-1008
+2025-05-25 10:08:32,522 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:08:32,522 - INFO - 
+🔍 Processando block volume: LinuxTSPlus32_Banco1LinuxTSPLUS32_clone2904
+2025-05-25 10:08:32,817 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus32_Banco1LinuxTSPLUS32_clone2904-BKPAUTCITEL-20250525-1008
+2025-05-25 10:08:33,382 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:08:33,382 - INFO - 
+🔍 Processando block volume: LinuxTSPlus32_Banco2LinuxTSPLUS32_clone2904
+2025-05-25 10:08:33,720 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus32_Banco2LinuxTSPLUS32_clone2904-BKPAUTCITEL-20250525-1008
+2025-05-25 10:08:34,302 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:08:34,302 - INFO - 
+🔍 Processando block volume: Banco2-LinuxData013
+2025-05-25 10:08:34,614 - INFO - ✅ Backup criado: BlockBackup-Banco2-LinuxData013-BKPAUTCITEL-20250525-1008
+2025-05-25 10:08:35,165 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:08:35,165 - INFO - 
+🔍 Processando block volume: Banco3-LinuxData013
+2025-05-25 10:08:35,289 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:08:44,119 - INFO - ✅ Backup criado: BlockBackup-Banco3-LinuxData013-BKPAUTCITEL-20250525-1008
+2025-05-25 10:08:44,681 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:08:44,681 - INFO - 
+🔍 Processando block volume: Banco1-LinuxData013
+2025-05-25 10:08:44,990 - INFO - ✅ Backup criado: BlockBackup-Banco1-LinuxData013-BKPAUTCITEL-20250525-1008
+2025-05-25 10:08:45,544 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:08:45,545 - INFO - 
+🔍 Processando block volume: LinuxTSPlus14_BackupCoresVivas TKT 902822_clone2904
+2025-05-25 10:08:45,811 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus14_BackupCoresVivas TKT 902822_clone2904-BKPAUTCITEL-20250525-1008
+2025-05-25 10:08:46,363 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:08:46,364 - INFO - 
+🔍 Processando block volume: LinuxTSPlus14_Banco2LinuxTSPlus14_clone2904
+2025-05-25 10:08:46,489 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:08:55,060 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:09:10,380 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-25 10:09:31,784 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus14_Banco2LinuxTSPlus14_clone2904-BKPAUTCITEL-20250525-1008
+2025-05-25 10:09:32,359 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:09:32,360 - INFO - 
+🔍 Processando block volume: LinuxTSPlus9-Banco1LinuxTSPlus9-clone2904
+2025-05-25 10:09:32,654 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus9-Banco1LinuxTSPlus9-clone2904-BKPAUTCITEL-20250525-1009
+2025-05-25 10:09:33,252 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:09:33,252 - INFO - 
+🔍 Processando block volume: LinuxTSPlus9-Banco3LinuxTSPlus9-clone2904
+2025-05-25 10:09:33,565 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus9-Banco3LinuxTSPlus9-clone2904-BKPAUTCITEL-20250525-1009
+2025-05-25 10:09:34,144 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:09:34,150 - INFO - 
+🔍 Processando block volume: LinuxTSPlus14_BancoUbertintasTSPlus14_clone2904
+2025-05-25 10:09:34,431 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus14_BancoUbertintasTSPlus14_clone2904-BKPAUTCITEL-20250525-1009
+2025-05-25 10:09:35,003 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:09:35,003 - INFO - 
+🔍 Processando block volume: LinuxTSPlus9-Bancos4_BR9-clone2904
+2025-05-25 10:09:35,325 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus9-Bancos4_BR9-clone2904-BKPAUTCITEL-20250525-1009
+2025-05-25 10:09:35,885 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:09:35,885 - INFO - 
+🔍 Processando block volume: LinuxTSPlus8-Banco1LinuxTSPlus8-clone2904
+2025-05-25 10:09:36,011 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:09:43,093 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus8-Banco1LinuxTSPlus8-clone2904-BKPAUTCITEL-20250525-1009
+2025-05-25 10:09:43,661 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:09:43,661 - INFO - 
+🔍 Processando block volume: LinuxTSPlus8-Banco3LinuxTSPlus8-clone2904
+2025-05-25 10:09:43,785 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:09:49,734 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus8-Banco3LinuxTSPlus8-clone2904-BKPAUTCITEL-20250525-1009
+2025-05-25 10:09:50,315 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:09:50,316 - INFO - 
+🔍 Processando block volume: LinuxTSPlus16_Banco1LinuxTSPlus16_clone2904
+2025-05-25 10:09:50,440 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:10:00,529 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus16_Banco1LinuxTSPlus16_clone2904-BKPAUTCITEL-20250525-1009
+2025-05-25 10:10:01,127 - INFO - 
+🔍 Processando block volume: LinuxTSPlus16_Banco2LinuxTSPlus16_clone2904
+2025-05-25 10:10:01,428 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus16_Banco2LinuxTSPlus16_clone2904-BKPAUTCITEL-20250525-1010
+2025-05-25 10:10:01,993 - INFO - 
+🔍 Processando block volume: LinuxTSPlus7-Banco2LinuxTSPlus7-block-clone2904
+2025-05-25 10:10:02,119 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:10:11,613 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:10:26,796 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus7-Banco2LinuxTSPlus7-block-clone2904-BKPAUTCITEL-20250525-1010
+2025-05-25 10:10:27,371 - INFO - 
+🔍 Processando block volume: LinuxTSPlus7-Banco3LinuxTSPlus7-block-clone2904
+2025-05-25 10:10:27,668 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus7-Banco3LinuxTSPlus7-block-clone2904-BKPAUTCITEL-20250525-1010
+2025-05-25 10:10:28,249 - INFO - 
+🔍 Processando block volume: LinuxTSPlus7-Banco3_BR7-block-clone2904
+2025-05-25 10:10:28,536 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus7-Banco3_BR7-block-clone2904-BKPAUTCITEL-20250525-1010
+2025-05-25 10:10:29,102 - INFO - 
+🔍 Processando block volume: LinuxTSPlus17_Banco2LinuxTSPlus17_clone2904
+2025-05-25 10:10:29,228 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:10:34,802 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:10:45,847 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus17_Banco2LinuxTSPlus17_clone2904-BKPAUTCITEL-20250525-1010
+2025-05-25 10:10:46,399 - INFO - 
+🔍 Processando block volume: LinuxTSPlus17_BancoPRODBelaTintas_clone2904
+2025-05-25 10:10:46,523 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:10:54,715 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus17_BancoPRODBelaTintas_clone2904-BKPAUTCITEL-20250525-1010
+2025-05-25 10:10:55,286 - INFO - 
+🔍 Processando block volume: LinuxTSPlus17_HD5-LinuxDBAs_clone2904
+2025-05-25 10:10:55,411 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:11:06,059 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus17_HD5-LinuxDBAs_clone2904-BKPAUTCITEL-20250525-1010
+2025-05-25 10:11:06,631 - INFO - 
+🔍 Processando block volume: LinuxTSPlus6-Banco3LinuxTSPlus6-block-clone2904
+2025-05-25 10:11:06,759 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:11:16,749 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus6-Banco3LinuxTSPlus6-block-clone2904-BKPAUTCITEL-20250525-1011
+2025-05-25 10:11:17,305 - INFO - 
+🔍 Processando block volume: LinuxTSPlus6-Banco4LinuxTSPlus6-block-clone2904
+2025-05-25 10:11:17,584 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus6-Banco4LinuxTSPlus6-block-clone2904-BKPAUTCITEL-20250525-1011
+2025-05-25 10:11:18,172 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:11:18,172 - INFO - 
+🔍 Processando block volume: LinuxTSPlus18-Banco1LinuxTSPlus18-block-2904
+2025-05-25 10:11:18,480 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus18-Banco1LinuxTSPlus18-block-2904-BKPAUTCITEL-20250525-1011
+2025-05-25 10:11:19,046 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:11:19,047 - INFO - 
+🔍 Processando block volume: LinuxTSPlus18-Banco2LinuxTSPlus18-block-2904
+2025-05-25 10:11:19,330 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus18-Banco2LinuxTSPlus18-block-2904-BKPAUTCITEL-20250525-1011
+2025-05-25 10:11:19,918 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:11:19,919 - INFO - 
+🔍 Processando block volume: LinuxTSPlus18-Bancos4_BR18-block-2904
+2025-05-25 10:11:20,043 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:11:25,703 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:11:39,207 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus18-Bancos4_BR18-block-2904-BKPAUTCITEL-20250525-1011
+2025-05-25 10:11:39,776 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:11:39,777 - INFO - 
+🔍 Processando block volume: LinuxTsplus59-Banco2Linux59-block-clone2904
+2025-05-25 10:11:40,066 - INFO - ✅ Backup criado: BlockBackup-LinuxTsplus59-Banco2Linux59-block-clone2904-BKPAUTCITEL-20250525-1011
+2025-05-25 10:11:40,625 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:11:40,625 - INFO - 
+🔍 Processando block volume: LinuxTsplus59-BancoLinux59-block-clone2904
+2025-05-25 10:11:40,957 - INFO - ✅ Backup criado: BlockBackup-LinuxTsplus59-BancoLinux59-block-clone2904-BKPAUTCITEL-20250525-1011
+2025-05-25 10:11:41,537 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:11:41,537 - INFO - 
+🔍 Processando block volume: LinuxTSPlus19_Banco1LinuxTSPlus19_clone2904
+2025-05-25 10:11:41,662 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:11:50,241 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:12:02,636 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus19_Banco1LinuxTSPlus19_clone2904-BKPAUTCITEL-20250525-1011
+2025-05-25 10:12:03,196 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:12:03,196 - INFO - 
+🔍 Processando block volume: LinuxTSPlus19_Banco3LinuxTSPlus19_clone2904
+2025-05-25 10:12:03,513 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus19_Banco3LinuxTSPlus19_clone2904-BKPAUTCITEL-20250525-1012
+2025-05-25 10:12:04,081 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:12:04,082 - INFO - 
+🔍 Processando block volume: LinuxTSPlus20_Banco1LinuxTSPlus20_clone2904
+2025-05-25 10:12:04,365 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus20_Banco1LinuxTSPlus20_clone2904-BKPAUTCITEL-20250525-1012
+2025-05-25 10:12:04,928 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:12:04,928 - INFO - 
+🔍 Processando block volume: LinuxTSPlus20_Banco2LinuxTSPlus20_clone2904
+2025-05-25 10:12:05,279 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus20_Banco2LinuxTSPlus20_clone2904-BKPAUTCITEL-20250525-1012
+2025-05-25 10:12:05,864 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:12:05,864 - INFO - 
+🔍 Processando block volume: LinuxTSPlus20_Banco3_BR20_clone2904
+2025-05-25 10:12:06,169 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus20_Banco3_BR20_clone2904-BKPAUTCITEL-20250525-1012
+2025-05-25 10:12:06,726 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:12:06,726 - INFO - 
+🔍 Processando block volume: LinuxTSPlus20_Banco4LinuxTSPlus20_clone2904
+2025-05-25 10:12:06,852 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:12:14,864 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus20_Banco4LinuxTSPlus20_clone2904-BKPAUTCITEL-20250525-1012
+2025-05-25 10:12:15,437 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:12:15,438 - INFO - 
+🔍 Processando block volume: LinuxTSPlus5-Banco3LinuxBR5-block-clone2904
+2025-05-25 10:12:15,562 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:12:25,276 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:12:39,775 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus5-Banco3LinuxBR5-block-clone2904-BKPAUTCITEL-20250525-1012
+2025-05-25 10:12:40,346 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:12:40,346 - INFO - 
+🔍 Processando block volume: LinuxTSPlus5-Banco2LinuxBR5-block-clone2904
+2025-05-25 10:12:40,651 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus5-Banco2LinuxBR5-block-clone2904-BKPAUTCITEL-20250525-1012
+2025-05-25 10:12:41,216 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:12:41,217 - INFO - 
+🔍 Processando block volume: Banco1-LinuxData004
+2025-05-25 10:12:41,505 - INFO - ✅ Backup criado: BlockBackup-Banco1-LinuxData004-BKPAUTCITEL-20250525-1012
+2025-05-25 10:12:42,084 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:12:42,085 - INFO - 
+🔍 Processando block volume: Banco2-LinuxData004
+2025-05-25 10:12:42,362 - INFO - ✅ Backup criado: BlockBackup-Banco2-LinuxData004-BKPAUTCITEL-20250525-1012
+2025-05-25 10:12:42,925 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:12:42,926 - INFO - 
+🔍 Processando block volume: Banco3-LinuxData004
+2025-05-25 10:12:43,050 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:12:51,508 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:13:05,380 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-25 10:13:26,265 - INFO - ✅ Backup criado: BlockBackup-Banco3-LinuxData004-BKPAUTCITEL-20250525-1012
+2025-05-25 10:13:26,829 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:13:26,830 - INFO - 
+🔍 Processando block volume: LinuxTSPlus48-block-Restore
+2025-05-25 10:13:27,112 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus48-block-Restore-BKPAUTCITEL-20250525-1013
+2025-05-25 10:13:27,677 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:13:27,677 - INFO - 
+🔍 Processando block volume: LinuxData007-Banco4
+2025-05-25 10:13:27,952 - INFO - ✅ Backup criado: BlockBackup-LinuxData007-Banco4-BKPAUTCITEL-20250525-1013
+2025-05-25 10:13:28,526 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:13:28,527 - INFO - 
+🔍 Processando block volume: Banco2LinuxBR21-Restore
+2025-05-25 10:13:28,816 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxBR21-Restore-BKPAUTCITEL-20250525-1013
+2025-05-25 10:13:29,393 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:13:29,393 - INFO - 
+🔍 Processando block volume: LinuxTSPlus41-block-Restore
+2025-05-25 10:13:29,678 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus41-block-Restore-BKPAUTCITEL-20250525-1013
+2025-05-25 10:13:30,263 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus26-Restore
+2025-05-25 10:13:30,388 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:13:40,632 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus26-Restore-BKPAUTCITEL-20250525-1013
+2025-05-25 10:13:41,206 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:13:41,207 - INFO - 
+🔍 Processando block volume: LinuxTSPlus36-block-Restore
+2025-05-25 10:13:41,334 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:13:47,947 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus36-block-Restore-BKPAUTCITEL-20250525-1013
+2025-05-25 10:13:48,518 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:13:48,518 - INFO - 
+🔍 Processando block volume: LinuxTSPlus34-Bancos3_BR34-backup-Restore
+2025-05-25 10:13:48,788 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus34-Bancos3_BR34-backup-Restore-BKPAUTCITEL-20250525-1013
+2025-05-25 10:13:49,381 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:13:49,381 - INFO - 
+🔍 Processando block volume: LinuxTSPlus34-Bancos2_BR34-backup-Restore
+2025-05-25 10:13:49,677 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus34-Bancos2_BR34-backup-Restore-BKPAUTCITEL-20250525-1013
+2025-05-25 10:13:50,248 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:13:50,249 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPLUS33-Restore
+2025-05-25 10:13:50,541 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPLUS33-Restore-BKPAUTCITEL-20250525-1013
+2025-05-25 10:13:51,104 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:13:51,104 - INFO - 
+🔍 Processando block volume: Banco2BR33-Restore
+2025-05-25 10:13:51,229 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:13:58,230 - INFO - ✅ Backup criado: BlockBackup-Banco2BR33-Restore-BKPAUTCITEL-20250525-1013
+2025-05-25 10:13:58,788 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:13:58,789 - INFO - 
+🔍 Processando block volume: LinuxTSPlus34-Banco1LinuxTSPLUS34-backup-Restore
+2025-05-25 10:13:58,914 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:14:08,585 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus34-Banco1LinuxTSPLUS34-backup-Restore-BKPAUTCITEL-20250525-1013
+2025-05-25 10:14:09,148 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:14:09,148 - INFO - 
+🔍 Processando block volume: LinuxTSPlus1-Restore1
+2025-05-25 10:14:09,272 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:14:19,236 - INFO - ✅ Backup criado: BlockBackup-LinuxTSPlus1-Restore1-BKPAUTCITEL-20250525-1014
+2025-05-25 10:14:19,796 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:14:19,797 - INFO - 
+🔍 Processando block volume: Bancos5_BR1-Restore2
+2025-05-25 10:14:20,110 - INFO - ✅ Backup criado: BlockBackup-Bancos5_BR1-Restore2-BKPAUTCITEL-20250525-1014
+2025-05-25 10:14:21,054 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:14:21,058 - INFO - 
+🔍 Processando block volume: Bancos4_BR01-Restore3
+2025-05-25 10:14:21,398 - INFO - ✅ Backup criado: BlockBackup-Bancos4_BR01-Restore3-BKPAUTCITEL-20250525-1014
+2025-05-25 10:14:21,982 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:14:21,983 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus1-Restore4
+2025-05-25 10:14:22,107 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:14:29,390 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:14:41,292 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-25 10:15:05,137 - WARNING - ⚠️ Tentativa 4: Limite de requisições. Aguardando 40s...
+2025-05-25 10:15:48,296 - WARNING - ⚠️ Tentativa 5: Limite de requisições. Aguardando 80s...
+2025-05-25 10:17:12,662 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:17:12,663 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus24-Restore
+2025-05-25 10:17:12,787 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:17:20,615 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus24-Restore-BKPAUTCITEL-20250525-1017
+2025-05-25 10:17:21,171 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:17:21,171 - INFO - 
+🔍 Processando block volume: Banco1LinuxTSPlus22-Restore
+2025-05-25 10:17:21,296 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:17:31,917 - INFO - ✅ Backup criado: BlockBackup-Banco1LinuxTSPlus22-Restore-BKPAUTCITEL-20250525-1017
+2025-05-25 10:17:32,497 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:17:32,498 - INFO - 
+🔍 Processando block volume: Banco3LinuxTSPlus22-Restore
+2025-05-25 10:17:32,793 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus22-Restore-BKPAUTCITEL-20250525-1017
+2025-05-25 10:17:33,376 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:17:33,377 - INFO - 
+🔍 Processando block volume: Banco2LinuxTSPlus22-Restore
+2025-05-25 10:17:33,506 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:17:43,780 - INFO - ✅ Backup criado: BlockBackup-Banco2LinuxTSPlus22-Restore-BKPAUTCITEL-20250525-1017
+2025-05-25 10:17:44,343 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:17:44,343 - INFO - 
+🔍 Processando block volume: LinuxData010-PalacioTKT651385
+2025-05-25 10:17:44,682 - INFO - ✅ Backup criado: BlockBackup-LinuxData010-PalacioTKT651385-BKPAUTCITEL-20250525-1017
+2025-05-25 10:17:45,290 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:17:45,291 - INFO - 
+🔍 Processando block volume: LinuxData010-Banco4
+2025-05-25 10:17:45,415 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:17:52,411 - INFO - ✅ Backup criado: BlockBackup-LinuxData010-Banco4-BKPAUTCITEL-20250525-1017
+2025-05-25 10:17:52,972 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:17:52,973 - INFO - 
+🔍 Processando block volume: LinuxData010-Banco5
+2025-05-25 10:17:53,097 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:18:01,462 - INFO - ✅ Backup criado: BlockBackup-LinuxData010-Banco5-BKPAUTCITEL-20250525-1017
+2025-05-25 10:18:02,060 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:18:02,061 - INFO - 
+🔍 Processando block volume: LinuxData010-GeB
+2025-05-25 10:18:02,358 - INFO - ✅ Backup criado: BlockBackup-LinuxData010-GeB-BKPAUTCITEL-20250525-1018
+2025-05-25 10:18:02,937 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:18:02,937 - INFO - 
+🔍 Processando block volume: LinuxData020-Banco3_BR20
+2025-05-25 10:18:03,062 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:18:10,591 - INFO - ✅ Backup criado: BlockBackup-LinuxData020-Banco3_BR20-BKPAUTCITEL-20250525-1018
+2025-05-25 10:18:11,176 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-10 08:00:00 via policy: Citel_Diario07
+2025-05-25 10:18:11,177 - INFO - 
+🔍 Processando block volume: Banco3_BR20-RESTORE_FILES
+2025-05-25 10:18:11,458 - INFO - ✅ Backup criado: BlockBackup-Banco3_BR20-RESTORE_FILES-BKPAUTCITEL-20250525-1018
+2025-05-25 10:18:12,010 - INFO - 
+🔍 Processando block volume: LinuxData030_clone06052025
+2025-05-25 10:18:12,139 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:18:20,947 - INFO - ✅ Backup criado: BlockBackup-LinuxData030_clone06052025-BKPAUTCITEL-20250525-1018
+2025-05-25 10:18:21,507 - INFO - 
+🔍 Processando block volume: Restore_Teste_Bancos3_BR20
+2025-05-25 10:18:21,633 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:18:30,488 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:18:42,416 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-25 10:19:03,648 - INFO - ✅ Backup criado: BlockBackup-Restore_Teste_Bancos3_BR20-BKPAUTCITEL-20250525-1018
+2025-05-25 10:19:04,204 - INFO - 
+🔍 Processando block volume: Restore Banco ComercialCarvalho
+2025-05-25 10:19:04,497 - INFO - ✅ Backup criado: BlockBackup-Restore Banco ComercialCarvalho-BKPAUTCITEL-20250525-1019
+2025-05-25 10:19:05,065 - INFO - 
+🔍 Processando block volume: Restore Banco Fluzao
+2025-05-25 10:19:05,385 - INFO - ✅ Backup criado: BlockBackup-Restore Banco Fluzao-BKPAUTCITEL-20250525-1019
+2025-05-25 10:19:05,947 - INFO - 
+🔍 Processando block volume: Restore Banco Suprema
+2025-05-25 10:19:06,241 - INFO - ✅ Backup criado: BlockBackup-Restore Banco Suprema-BKPAUTCITEL-20250525-1019
+2025-05-25 10:19:06,813 - INFO - 
+🔍 Processando block volume: BKP Fluzao Prudente
+2025-05-25 10:19:07,105 - INFO - ✅ Backup criado: BlockBackup-BKP Fluzao Prudente-BKPAUTCITEL-20250525-1019
+2025-05-25 10:19:07,665 - INFO - 
+🔍 Processando block volume: LINUXDATA020-BANCO3-Testerecovery-14-05-2025
+2025-05-25 10:19:07,796 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:19:14,825 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:19:26,010 - INFO - ✅ Backup criado: BlockBackup-LINUXDATA020-BANCO3-Testerecovery-14-05-2025-BKPAUTCITEL-20250525-1019
+2025-05-25 10:19:26,569 - INFO - 
+🔍 Processando block volume: Restore Banco BI Royal
+2025-05-25 10:19:26,866 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Royal-BKPAUTCITEL-20250525-1019
+2025-05-25 10:19:27,414 - INFO - 
+🔍 Processando block volume: Restore Banco BI Piso e Cia 
+2025-05-25 10:19:27,537 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:19:34,597 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:19:45,780 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Piso e Cia -BKPAUTCITEL-20250525-1019
+2025-05-25 10:19:46,339 - INFO - 
+🔍 Processando block volume: Restore Banco BI MaxVinil
+2025-05-25 10:19:46,646 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI MaxVinil-BKPAUTCITEL-20250525-1019
+2025-05-25 10:19:47,204 - INFO - 
+🔍 Processando block volume: Restore Banco BI Vermat
+2025-05-25 10:19:47,329 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:19:53,334 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Vermat-BKPAUTCITEL-20250525-1019
+2025-05-25 10:19:53,890 - INFO - 
+🔍 Processando block volume: Restore Banco BI Perin
+2025-05-25 10:19:54,015 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:20:04,422 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:20:19,362 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Perin-BKPAUTCITEL-20250525-1019
+2025-05-25 10:20:19,913 - INFO - 
+🔍 Processando block volume: Restore Banco BI AtacadaoPT
+2025-05-25 10:20:20,187 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI AtacadaoPT-BKPAUTCITEL-20250525-1020
+2025-05-25 10:20:20,746 - INFO - 
+🔍 Processando block volume: Restore Banco BI Agrocac
+2025-05-25 10:20:21,053 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Agrocac-BKPAUTCITEL-20250525-1020
+2025-05-25 10:20:21,613 - INFO - 
+🔍 Processando block volume: Restore Banco BI PadraoPVC
+2025-05-25 10:20:21,737 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:20:29,538 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI PadraoPVC-BKPAUTCITEL-20250525-1020
+2025-05-25 10:20:30,090 - INFO - 
+🔍 Processando block volume: Restore Banco BI Rezende
+2025-05-25 10:20:30,345 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Rezende-BKPAUTCITEL-20250525-1020
+2025-05-25 10:20:30,903 - INFO - 
+🔍 Processando block volume: Restore Banco BI MadMapa
+2025-05-25 10:20:31,027 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:20:40,850 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:20:55,691 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-25 10:21:19,642 - WARNING - ⚠️ Tentativa 4: Limite de requisições. Aguardando 40s...
+2025-05-25 10:22:02,611 - WARNING - ⚠️ Tentativa 5: Limite de requisições. Aguardando 80s...
+2025-05-25 10:23:27,023 - INFO - 
+🔍 Processando block volume: Restore Banco BI Santana
+2025-05-25 10:23:27,148 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:23:35,986 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:23:49,278 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Santana-BKPAUTCITEL-20250525-1023
+2025-05-25 10:23:49,838 - INFO - 
+🔍 Processando block volume: Restore Banco BI VarejaodasTintas
+2025-05-25 10:23:50,133 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI VarejaodasTintas-BKPAUTCITEL-20250525-1023
+2025-05-25 10:23:50,698 - INFO - 
+🔍 Processando block volume: Restore Banco BI ElloTintas
+2025-05-25 10:23:50,989 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI ElloTintas-BKPAUTCITEL-20250525-1023
+2025-05-25 10:23:51,565 - INFO - 
+🔍 Processando block volume: Restore Banco BI Moto One
+2025-05-25 10:23:51,850 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Moto One-BKPAUTCITEL-20250525-1023
+2025-05-25 10:23:52,395 - INFO - 
+🔍 Processando block volume: Restore Banco BI OLV
+2025-05-25 10:23:52,520 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:23:58,572 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI OLV-BKPAUTCITEL-20250525-1023
+2025-05-25 10:23:59,140 - INFO - 
+🔍 Processando block volume: Restore Banco BI Construilma
+2025-05-25 10:23:59,425 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Construilma-BKPAUTCITEL-20250525-1023
+2025-05-25 10:23:59,976 - INFO - 
+🔍 Processando block volume: Restore Banco BI Baytek
+2025-05-25 10:24:00,101 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:24:10,145 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:24:25,513 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Baytek-BKPAUTCITEL-20250525-1023
+2025-05-25 10:24:26,121 - INFO - 
+🔍 Processando block volume: Restore Banco BI Soldage
+2025-05-25 10:24:26,406 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Soldage-BKPAUTCITEL-20250525-1024
+2025-05-25 10:24:26,949 - INFO - 
+🔍 Processando block volume: Banco Restore BI Rizato
+2025-05-25 10:24:27,079 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:24:35,261 - INFO - ✅ Backup criado: BlockBackup-Banco Restore BI Rizato-BKPAUTCITEL-20250525-1024
+2025-05-25 10:24:35,822 - INFO - 
+🔍 Processando block volume: Restore Banco BI Colomarti
+2025-05-25 10:24:35,949 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:24:44,092 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:24:58,913 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 20s...
+2025-05-25 10:25:24,551 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Colomarti-BKPAUTCITEL-20250525-1024
+2025-05-25 10:25:25,189 - INFO - 
+🔍 Processando block volume: HD BKP BI Gasparzinho
+2025-05-25 10:25:25,475 - INFO - ✅ Backup criado: BlockBackup-HD BKP BI Gasparzinho-BKPAUTCITEL-20250525-1025
+2025-05-25 10:25:26,017 - INFO - 
+🔍 Processando block volume: Banco_srvEstrategico
+2025-05-25 10:25:26,283 - INFO - ✅ Backup criado: BlockBackup-Banco_srvEstrategico-BKPAUTCITEL-20250525-1025
+2025-05-25 10:25:26,851 - INFO - 
+🔍 Processando block volume: Restore banco Palmas bkp2 
+2025-05-25 10:25:27,143 - INFO - ✅ Backup criado: BlockBackup-Restore banco Palmas bkp2 -BKPAUTCITEL-20250525-1025
+2025-05-25 10:25:27,703 - INFO - 
+🔍 Processando block volume: Restore Banco 2B bkp2
+2025-05-25 10:25:28,010 - INFO - ✅ Backup criado: BlockBackup-Restore Banco 2B bkp2-BKPAUTCITEL-20250525-1025
+2025-05-25 10:25:28,560 - INFO - 
+🔍 Processando block volume: Restore Banco BI Refrigas2
+2025-05-25 10:25:28,684 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:25:37,092 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 10s...
+2025-05-25 10:25:50,899 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI Refrigas2-BKPAUTCITEL-20250525-1025
+2025-05-25 10:25:51,459 - INFO - 
+🔍 Processando block volume: BKP Valclei tkt 1076246
+2025-05-25 10:25:51,583 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:25:59,970 - INFO - ✅ Backup criado: BlockBackup-BKP Valclei tkt 1076246-BKPAUTCITEL-20250525-1025
+2025-05-25 10:26:00,525 - INFO - 
+🔍 Processando block volume: Restore2 BI Paratudo
+2025-05-25 10:26:00,650 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 5s...
+2025-05-25 10:26:06,526 - INFO - ✅ Backup criado: BlockBackup-Restore2 BI Paratudo-BKPAUTCITEL-20250525-1026
+2025-05-25 10:26:07,064 - INFO - 
+🔍 Processando block volume: Banco2 MiaraKruger bi 
+2025-05-25 10:26:07,358 - INFO - ✅ Backup criado: BlockBackup-Banco2 MiaraKruger bi -BKPAUTCITEL-20250525-1026
+2025-05-25 10:26:07,900 - INFO - 
+🔁 Tentando novamente os backups que falharam...
+2025-05-25 10:26:07,900 - INFO - 
+🔄 Reprocessando: Banco3LinuxTSPlus1-Restore4
+2025-05-25 10:26:08,197 - INFO - ✅ Backup criado: BlockBackup-Banco3LinuxTSPlus1-Restore4-BKPAUTCITEL-20250525-1026
+2025-05-25 10:26:08,197 - INFO - 
+🔄 Reprocessando: Restore Banco BI MadMapa
+2025-05-25 10:26:08,858 - INFO - ✅ Backup criado: BlockBackup-Restore Banco BI MadMapa-BKPAUTCITEL-20250525-1026
+2025-05-25 10:26:08,858 - INFO - 
+✅ Execução concluída com sucesso

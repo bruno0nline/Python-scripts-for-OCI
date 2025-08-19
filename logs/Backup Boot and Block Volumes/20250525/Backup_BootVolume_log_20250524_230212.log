@@ -1,0 +1,283 @@
+2025-05-24 23:02:16,333 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus20
+2025-05-24 23:02:16,642 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus20-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:17,262 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus25
+2025-05-24 23:02:17,570 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus25-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:18,252 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus1
+2025-05-24 23:02:18,589 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus1-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:19,235 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus2
+2025-05-24 23:02:19,564 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus2-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:20,254 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus4
+2025-05-24 23:02:20,576 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus4-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:21,182 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus6
+2025-05-24 23:02:21,516 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus6-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:22,172 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus30
+2025-05-24 23:02:22,564 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus30-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:23,221 - INFO - 
+🔍 Processando boot volume: Temp-Subida_G_e_B (Boot Volume)
+2025-05-24 23:02:23,524 - INFO - ✅ Backup criado: BootBackup-Temp-Subida_G_e_B (Boot Volume)-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:24,184 - INFO - 
+🔍 Processando boot volume: Banco_BelaTintas (Boot Volume)
+2025-05-24 23:02:24,320 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:02:27,698 - INFO - ✅ Backup criado: BootBackup-Banco_BelaTintas (Boot Volume)-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:28,315 - INFO - 
+🔍 Processando boot volume: Banco_BelaTintas_clone29042025
+2025-05-24 23:02:28,662 - INFO - ✅ Backup criado: BootBackup-Banco_BelaTintas_clone29042025-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:29,344 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus11_clone2904
+2025-05-24 23:02:29,655 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus11_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:30,314 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus30_boot_clone2904
+2025-05-24 23:02:30,608 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus30_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:31,335 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus12_boot_clone2904
+2025-05-24 23:02:31,649 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus12_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:32,260 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus55_boot_clone2904
+2025-05-24 23:02:32,382 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:02:35,870 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus55_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:36,606 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus65_boot_clone2904
+2025-05-24 23:02:36,947 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus65_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:37,624 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus28_boot_clone2904
+2025-05-24 23:02:37,914 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus28_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:38,621 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus72_boot_clone2904
+2025-05-24 23:02:38,948 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus72_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:39,622 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus43_boot_clone2904
+2025-05-24 23:02:39,952 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus43_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:40,635 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus50_boot_clone2904
+2025-05-24 23:02:40,977 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus50_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:41,645 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus37_boot_clone2904
+2025-05-24 23:02:41,780 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:02:46,587 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus37_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:47,236 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus32_boot_clone2904
+2025-05-24 23:02:47,559 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus32_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:48,345 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus2_boot_clone2904
+2025-05-24 23:02:48,674 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus2_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:49,354 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus25_boot_clone2904
+2025-05-24 23:02:49,715 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus25_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:50,362 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus13_boot_clone2904
+2025-05-24 23:02:50,497 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:02:54,582 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus13_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:55,296 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus9-boot_clone2904
+2025-05-24 23:02:55,590 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus9-boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:56,246 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus16_boot_clone2904
+2025-05-24 23:02:56,604 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus16_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:02:57,262 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus17_boot_clone2904
+2025-05-24 23:02:57,397 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:02:59,136 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:03:04,769 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 4s...
+2025-05-24 23:03:10,056 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus17_boot_clone2904-BKPAUTCITEL-20250524-2302
+2025-05-24 23:03:10,653 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus7-boot_clone2904
+2025-05-24 23:03:10,774 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:03:12,654 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus7-boot_clone2904-BKPAUTCITEL-20250524-2303
+2025-05-24 23:03:13,318 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus6-boot-clone2904
+2025-05-24 23:03:13,453 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:03:19,254 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus6-boot-clone2904-BKPAUTCITEL-20250524-2303
+2025-05-24 23:03:19,908 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus18-boot-clone2904
+2025-05-24 23:03:20,265 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus18-boot-clone2904-BKPAUTCITEL-20250524-2303
+2025-05-24 23:03:20,908 - INFO - 
+🔍 Processando boot volume: Linux-checkdisks (Boot Volume)
+2025-05-24 23:03:21,042 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:03:23,656 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:03:27,511 - INFO - ✅ Backup criado: BootBackup-Linux-checkdisks (Boot Volume)-BKPAUTCITEL-20250524-2303
+2025-05-24 23:03:28,179 - INFO - 
+🔍 Processando boot volume: LinuxDataBelaTintas
+2025-05-24 23:03:28,315 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:03:31,572 - INFO - ✅ Backup criado: BootBackup-LinuxDataBelaTintas-BKPAUTCITEL-20250524-2303
+2025-05-24 23:03:32,234 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus5-boot-clone2904
+2025-05-24 23:03:32,546 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus5-boot-clone2904-BKPAUTCITEL-20250524-2303
+2025-05-24 23:03:33,280 - INFO - 
+🔍 Processando boot volume: LinuxData010
+2025-05-24 23:03:33,428 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:03:38,713 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:03:42,113 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 4s...
+2025-05-24 23:03:50,828 - INFO - ✅ Backup criado: BootBackup-LinuxData010-BKPAUTCITEL-20250524-2303
+2025-05-24 23:03:51,483 - INFO - 
+🔍 Processando boot volume: LinuxData025
+2025-05-24 23:03:51,617 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:03:55,029 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:04:00,502 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 4s...
+2025-05-24 23:04:10,132 - INFO - ✅ Backup criado: BootBackup-LinuxData025-BKPAUTCITEL-20250524-2303
+2025-05-24 23:04:10,818 - INFO - 
+🔍 Processando boot volume: LinuxData004
+2025-05-24 23:04:11,135 - INFO - ✅ Backup criado: BootBackup-LinuxData004-BKPAUTCITEL-20250524-2304
+2025-05-24 23:04:11,799 - INFO - 
+🔍 Processando boot volume: LinuxData005
+2025-05-24 23:04:12,114 - INFO - ✅ Backup criado: BootBackup-LinuxData005-BKPAUTCITEL-20250524-2304
+2025-05-24 23:04:12,735 - INFO - 
+🔍 Processando boot volume: LinuxData012
+2025-05-24 23:04:13,060 - INFO - ✅ Backup criado: BootBackup-LinuxData012-BKPAUTCITEL-20250524-2304
+2025-05-24 23:04:13,709 - INFO - 
+🔍 Processando boot volume: LinuxData006
+2025-05-24 23:04:13,846 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:04:18,313 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:04:21,510 - INFO - ✅ Backup criado: BootBackup-LinuxData006-BKPAUTCITEL-20250524-2304
+2025-05-24 23:04:22,258 - INFO - 
+🔍 Processando boot volume: LinuxData013
+2025-05-24 23:04:22,406 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:04:27,899 - INFO - ✅ Backup criado: BootBackup-LinuxData013-BKPAUTCITEL-20250524-2304
+2025-05-24 23:04:28,605 - INFO - 
+🔍 Processando boot volume: LinuxData011
+2025-05-24 23:04:28,932 - INFO - ✅ Backup criado: BootBackup-LinuxData011-BKPAUTCITEL-20250524-2304
+2025-05-24 23:04:29,600 - INFO - 
+🔍 Processando boot volume: LinuxData008
+2025-05-24 23:04:29,734 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:04:33,558 - INFO - ✅ Backup criado: BootBackup-LinuxData008-BKPAUTCITEL-20250524-2304
+2025-05-24 23:04:34,275 - INFO - 
+🔍 Processando boot volume: LinuxData007
+2025-05-24 23:04:34,572 - INFO - ✅ Backup criado: BootBackup-LinuxData007-BKPAUTCITEL-20250524-2304
+2025-05-24 23:04:35,175 - INFO - 
+🔍 Processando boot volume: LinuxData055
+2025-05-24 23:04:35,296 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:04:39,809 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:04:45,709 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 4s...
+2025-05-24 23:04:50,981 - WARNING - ⚠️ Tentativa 4: Limite de requisições. Aguardando 8s...
+2025-05-24 23:05:03,525 - WARNING - ⚠️ Tentativa 5: Limite de requisições. Aguardando 16s...
+2025-05-24 23:05:24,344 - INFO - 
+🔍 Processando boot volume: LinuxData009
+2025-05-24 23:05:24,703 - INFO - ✅ Backup criado: BootBackup-LinuxData009-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:25,302 - INFO - 
+🔍 Processando boot volume: LinuxData014
+2025-05-24 23:05:25,592 - INFO - ✅ Backup criado: BootBackup-LinuxData014-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:26,257 - INFO - 
+🔍 Processando boot volume: LinuxData050
+2025-05-24 23:05:26,597 - INFO - ✅ Backup criado: BootBackup-LinuxData050-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:27,278 - INFO - 
+🔍 Processando boot volume: LinuxData018
+2025-05-24 23:05:27,613 - INFO - ✅ Backup criado: BootBackup-LinuxData018-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:28,301 - INFO - 
+🔍 Processando boot volume: LinuxData016
+2025-05-24 23:05:28,663 - INFO - ✅ Backup criado: BootBackup-LinuxData016-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:29,356 - INFO - 
+🔍 Processando boot volume: LinuxData059
+2025-05-24 23:05:29,792 - INFO - ✅ Backup criado: BootBackup-LinuxData059-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:30,488 - INFO - 
+🔍 Processando boot volume: LinuxData037
+2025-05-24 23:05:30,623 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:05:33,241 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:05:40,285 - INFO - ✅ Backup criado: BootBackup-LinuxData037-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:41,046 - INFO - 
+🔍 Processando boot volume: LinuxData036
+2025-05-24 23:05:41,195 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:05:47,030 - INFO - ✅ Backup criado: BootBackup-LinuxData036-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:47,699 - INFO - 
+🔍 Processando boot volume: LinuxData017
+2025-05-24 23:05:48,019 - INFO - ✅ Backup criado: BootBackup-LinuxData017-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:48,742 - INFO - 
+🔍 Processando boot volume: LinuxData041
+2025-05-24 23:05:49,074 - INFO - ✅ Backup criado: BootBackup-LinuxData041-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:49,727 - INFO - 
+🔍 Processando boot volume: LinuxData043
+2025-05-24 23:05:49,862 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:05:51,995 - INFO - ✅ Backup criado: BootBackup-LinuxData043-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:52,677 - INFO - 
+🔍 Processando boot volume: LinuxData048
+2025-05-24 23:05:52,974 - INFO - ✅ Backup criado: BootBackup-LinuxData048-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:53,624 - INFO - 
+🔍 Processando boot volume: LinuxData032
+2025-05-24 23:05:54,008 - INFO - ✅ Backup criado: BootBackup-LinuxData032-BKPAUTCITEL-20250524-2305
+2025-05-24 23:05:54,664 - INFO - 
+🔍 Processando boot volume: LinuxData033
+2025-05-24 23:05:54,798 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:06:01,314 - INFO - ✅ Backup criado: BootBackup-LinuxData033-BKPAUTCITEL-20250524-2305
+2025-05-24 23:06:02,055 - INFO - 
+🔍 Processando boot volume: LinuxData034
+2025-05-24 23:06:02,203 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:06:07,762 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:06:14,527 - INFO - ✅ Backup criado: BootBackup-LinuxData034-BKPAUTCITEL-20250524-2306
+2025-05-24 23:06:15,241 - INFO - 
+🔍 Processando boot volume: LinuxData029
+2025-05-24 23:06:15,390 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:06:17,046 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:06:22,240 - INFO - ✅ Backup criado: BootBackup-LinuxData029-BKPAUTCITEL-20250524-2306
+2025-05-24 23:06:22,975 - INFO - 
+🔍 Processando boot volume: LinuxData019
+2025-05-24 23:06:23,308 - INFO - ✅ Backup criado: BootBackup-LinuxData019-BKPAUTCITEL-20250524-2306
+2025-05-24 23:06:24,012 - INFO - 
+🔍 Processando boot volume: LinuxData021
+2025-05-24 23:06:24,160 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:06:27,713 - INFO - ✅ Backup criado: BootBackup-LinuxData021-BKPAUTCITEL-20250524-2306
+2025-05-24 23:06:28,441 - INFO - 
+🔍 Processando boot volume: LinuxData022
+2025-05-24 23:06:28,590 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:06:31,524 - INFO - ✅ Backup criado: BootBackup-LinuxData022-BKPAUTCITEL-20250524-2306
+2025-05-24 23:06:32,200 - INFO - 
+🔍 Processando boot volume: LinuxData024
+2025-05-24 23:06:32,335 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:06:36,849 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:06:42,007 - INFO - ✅ Backup criado: BootBackup-LinuxData024-BKPAUTCITEL-20250524-2306
+2025-05-24 23:06:42,603 - INFO - 
+🔍 Processando boot volume: LinuxData020
+2025-05-24 23:06:42,724 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:06:47,109 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:06:52,949 - INFO - ✅ Backup criado: BootBackup-LinuxData020-BKPAUTCITEL-20250524-2306
+2025-05-24 23:06:53,683 - INFO - 
+🔍 Processando boot volume: LinuxData026
+2025-05-24 23:06:53,839 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:07:00,313 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:07:04,632 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 4s...
+2025-05-24 23:07:10,535 - INFO - ✅ Backup criado: BootBackup-LinuxData026-BKPAUTCITEL-20250524-2306
+2025-05-24 23:07:11,210 - INFO - 
+🔍 Processando boot volume: LinuxData028
+2025-05-24 23:07:11,547 - INFO - ✅ Backup criado: BootBackup-LinuxData028-BKPAUTCITEL-20250524-2307
+2025-05-24 23:07:12,251 - INFO - 
+🔍 Processando boot volume: LinuxData030
+2025-05-24 23:07:12,399 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:07:16,999 - INFO - ✅ Backup criado: BootBackup-LinuxData030-BKPAUTCITEL-20250524-2307
+2025-05-24 23:07:17,661 - INFO - 
+🔍 Processando boot volume: LinuxData040
+2025-05-24 23:07:17,970 - INFO - ✅ Backup criado: BootBackup-LinuxData040-BKPAUTCITEL-20250524-2307
+2025-05-24 23:07:18,631 - INFO - 
+🔍 Processando boot volume: LinuxData065
+2025-05-24 23:07:18,767 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:07:22,439 - INFO - ✅ Backup criado: BootBackup-LinuxData065-BKPAUTCITEL-20250524-2307
+2025-05-24 23:07:23,118 - INFO - 
+🔍 Processando boot volume: LinuxData072
+2025-05-24 23:07:23,252 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:07:26,738 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:07:29,791 - INFO - ✅ Backup criado: BootBackup-LinuxData072-BKPAUTCITEL-20250524-2307
+2025-05-24 23:07:30,477 - INFO - 
+🔍 Processando boot volume: LinuxData001
+2025-05-24 23:07:30,813 - INFO - ✅ Backup criado: BootBackup-LinuxData001-BKPAUTCITEL-20250524-2307
+2025-05-24 23:07:31,490 - INFO - 
+🔍 Processando boot volume: LinuxData002
+2025-05-24 23:07:31,971 - INFO - ✅ Backup criado: BootBackup-LinuxData002-BKPAUTCITEL-20250524-2307
+2025-05-24 23:07:32,699 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus20_boot_clone0105
+2025-05-24 23:07:33,147 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus20_boot_clone0105-BKPAUTCITEL-20250524-2307
+2025-05-24 23:07:33,851 - INFO - 
+🔍 Processando boot volume: LinuxData013_clone06052025
+2025-05-24 23:07:34,293 - INFO - ✅ Backup criado: BootBackup-LinuxData013_clone06052025-BKPAUTCITEL-20250524-2307
+2025-05-24 23:07:34,995 - INFO - 
+🔁 Tentando novamente os backups que falharam...
+2025-05-24 23:07:34,996 - INFO - 
+🔄 Reprocessando: LinuxData055
+2025-05-24 23:07:35,144 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-24 23:07:39,263 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-24 23:07:44,599 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 4s...
+2025-05-24 23:07:53,041 - INFO - ✅ Backup criado: BootBackup-LinuxData055-BKPAUTCITEL-20250524-2307
+2025-05-24 23:07:53,042 - INFO - 
+✅ Execução concluída com sucesso

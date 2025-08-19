@@ -1,0 +1,237 @@
+2025-05-26 20:07:30,908 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus20
+2025-05-26 20:07:31,270 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus20-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:31,573 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:31,573 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus1
+2025-05-26 20:07:32,017 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus1-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:32,679 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:32,680 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus2
+2025-05-26 20:07:32,994 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus2-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:33,257 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:33,258 - INFO - 
+🔍 Processando boot volume: Temp-Subida_G_e_B (Boot Volume)
+2025-05-26 20:07:33,547 - INFO - ✅ Backup criado: BootBackup-Temp-Subida_G_e_B (Boot Volume)-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:34,203 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:34,204 - INFO - 
+🔍 Processando boot volume: Banco_BelaTintas (Boot Volume)
+2025-05-26 20:07:34,626 - INFO - ✅ Backup criado: BootBackup-Banco_BelaTintas (Boot Volume)-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:34,892 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:34,892 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus65_boot_clone2904
+2025-05-26 20:07:35,196 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus65_boot_clone2904-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:35,847 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:35,848 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus72_boot_clone2904
+2025-05-26 20:07:36,159 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus72_boot_clone2904-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:36,418 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:36,418 - INFO - 
+🔍 Processando boot volume: Linux-checkdisks (Boot Volume)
+2025-05-26 20:07:36,784 - INFO - ✅ Backup criado: BootBackup-Linux-checkdisks (Boot Volume)-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:37,435 - INFO - 
+🔍 Processando boot volume: LinuxDataBelaTintas
+2025-05-26 20:07:37,735 - INFO - ✅ Backup criado: BootBackup-LinuxDataBelaTintas-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:38,017 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:38,018 - INFO - 
+🔍 Processando boot volume: LinuxData010
+2025-05-26 20:07:38,337 - INFO - ✅ Backup criado: BootBackup-LinuxData010-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:38,970 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:38,971 - INFO - 
+🔍 Processando boot volume: LinuxData025
+2025-05-26 20:07:39,096 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:07:42,612 - INFO - ✅ Backup criado: BootBackup-LinuxData025-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:42,888 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:42,888 - INFO - 
+🔍 Processando boot volume: LinuxData004
+2025-05-26 20:07:43,182 - INFO - ✅ Backup criado: BootBackup-LinuxData004-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:43,833 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:43,834 - INFO - 
+🔍 Processando boot volume: LinuxData005
+2025-05-26 20:07:43,958 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:07:46,332 - INFO - ✅ Backup criado: BootBackup-LinuxData005-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:46,623 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:46,623 - INFO - 
+🔍 Processando boot volume: LinuxData012
+2025-05-26 20:07:46,931 - INFO - ✅ Backup criado: BootBackup-LinuxData012-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:47,578 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:47,578 - INFO - 
+🔍 Processando boot volume: LinuxData006
+2025-05-26 20:07:47,871 - INFO - ✅ Backup criado: BootBackup-LinuxData006-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:48,135 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:48,135 - INFO - 
+🔍 Processando boot volume: LinuxData013
+2025-05-26 20:07:48,427 - INFO - ✅ Backup criado: BootBackup-LinuxData013-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:49,061 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:49,061 - INFO - 
+🔍 Processando boot volume: LinuxData011
+2025-05-26 20:07:49,187 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:07:51,548 - INFO - ✅ Backup criado: BootBackup-LinuxData011-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:51,827 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:51,828 - INFO - 
+🔍 Processando boot volume: LinuxData008
+2025-05-26 20:07:52,121 - INFO - ✅ Backup criado: BootBackup-LinuxData008-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:52,765 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:52,766 - INFO - 
+🔍 Processando boot volume: LinuxData007
+2025-05-26 20:07:53,063 - INFO - ✅ Backup criado: BootBackup-LinuxData007-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:53,313 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:53,313 - INFO - 
+🔍 Processando boot volume: LinuxData055
+2025-05-26 20:07:53,602 - INFO - ✅ Backup criado: BootBackup-LinuxData055-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:54,258 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:54,258 - INFO - 
+🔍 Processando boot volume: LinuxData009
+2025-05-26 20:07:54,553 - INFO - ✅ Backup criado: BootBackup-LinuxData009-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:54,825 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:54,825 - INFO - 
+🔍 Processando boot volume: LinuxData014
+2025-05-26 20:07:55,131 - INFO - ✅ Backup criado: BootBackup-LinuxData014-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:55,794 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:55,796 - INFO - 
+🔍 Processando boot volume: LinuxData050
+2025-05-26 20:07:56,124 - INFO - ✅ Backup criado: BootBackup-LinuxData050-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:56,385 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:56,386 - INFO - 
+🔍 Processando boot volume: LinuxData018
+2025-05-26 20:07:56,735 - INFO - ✅ Backup criado: BootBackup-LinuxData018-BKPAUTCITEL-20250526-2007
+2025-05-26 20:07:57,363 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:07:57,364 - INFO - 
+🔍 Processando boot volume: LinuxData016
+2025-05-26 20:07:57,488 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:08:03,000 - INFO - ✅ Backup criado: BootBackup-LinuxData016-BKPAUTCITEL-20250526-2007
+2025-05-26 20:08:03,294 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:08:03,295 - INFO - 
+🔍 Processando boot volume: LinuxData059
+2025-05-26 20:08:03,581 - INFO - ✅ Backup criado: BootBackup-LinuxData059-BKPAUTCITEL-20250526-2008
+2025-05-26 20:08:04,217 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:08:04,218 - INFO - 
+🔍 Processando boot volume: LinuxData037
+2025-05-26 20:08:04,342 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:08:09,435 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-26 20:08:15,541 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 4s...
+2025-05-26 20:08:23,799 - WARNING - ⚠️ Tentativa 4: Limite de requisições. Aguardando 8s...
+2025-05-26 20:08:35,631 - WARNING - ⚠️ Tentativa 5: Limite de requisições. Aguardando 16s...
+2025-05-26 20:08:54,127 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:08:54,128 - INFO - 
+🔍 Processando boot volume: LinuxData036
+2025-05-26 20:08:54,437 - INFO - ✅ Backup criado: BootBackup-LinuxData036-BKPAUTCITEL-20250526-2008
+2025-05-26 20:08:55,101 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:08:55,102 - INFO - 
+🔍 Processando boot volume: LinuxData017
+2025-05-26 20:08:55,232 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:08:59,726 - INFO - ✅ Backup criado: BootBackup-LinuxData017-BKPAUTCITEL-20250526-2008
+2025-05-26 20:09:00,365 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:00,366 - INFO - 
+🔍 Processando boot volume: LinuxData041
+2025-05-26 20:09:00,676 - INFO - ✅ Backup criado: BootBackup-LinuxData041-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:00,924 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:00,925 - INFO - 
+🔍 Processando boot volume: LinuxData043
+2025-05-26 20:09:01,245 - INFO - ✅ Backup criado: BootBackup-LinuxData043-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:01,962 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:01,963 - INFO - 
+🔍 Processando boot volume: LinuxData048
+2025-05-26 20:09:02,291 - INFO - ✅ Backup criado: BootBackup-LinuxData048-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:02,541 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:02,541 - INFO - 
+🔍 Processando boot volume: LinuxData032
+2025-05-26 20:09:02,844 - INFO - ✅ Backup criado: BootBackup-LinuxData032-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:03,488 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:03,488 - INFO - 
+🔍 Processando boot volume: LinuxData033
+2025-05-26 20:09:03,827 - INFO - ✅ Backup criado: BootBackup-LinuxData033-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:04,466 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:04,466 - INFO - 
+🔍 Processando boot volume: LinuxData034
+2025-05-26 20:09:04,780 - INFO - ✅ Backup criado: BootBackup-LinuxData034-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:05,425 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:05,425 - INFO - 
+🔍 Processando boot volume: LinuxData029
+2025-05-26 20:09:05,550 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:09:11,390 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-26 20:09:17,251 - INFO - ✅ Backup criado: BootBackup-LinuxData029-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:17,933 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:17,933 - INFO - 
+🔍 Processando boot volume: LinuxData019
+2025-05-26 20:09:18,204 - INFO - ✅ Backup criado: BootBackup-LinuxData019-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:18,862 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:18,863 - INFO - 
+🔍 Processando boot volume: LinuxData021
+2025-05-26 20:09:19,148 - INFO - ✅ Backup criado: BootBackup-LinuxData021-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:19,850 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:19,850 - INFO - 
+🔍 Processando boot volume: LinuxData022
+2025-05-26 20:09:20,151 - INFO - ✅ Backup criado: BootBackup-LinuxData022-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:20,437 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:20,438 - INFO - 
+🔍 Processando boot volume: LinuxData024
+2025-05-26 20:09:20,753 - INFO - ✅ Backup criado: BootBackup-LinuxData024-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:21,388 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:21,388 - INFO - 
+🔍 Processando boot volume: LinuxData020
+2025-05-26 20:09:21,512 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:09:23,420 - INFO - ✅ Backup criado: BootBackup-LinuxData020-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:24,045 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:24,045 - INFO - 
+🔍 Processando boot volume: LinuxData026
+2025-05-26 20:09:24,170 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:09:29,393 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-26 20:09:33,321 - INFO - ✅ Backup criado: BootBackup-LinuxData026-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:33,986 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:33,987 - INFO - 
+🔍 Processando boot volume: LinuxData028
+2025-05-26 20:09:34,111 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:09:36,356 - INFO - ✅ Backup criado: BootBackup-LinuxData028-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:36,999 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:37,000 - INFO - 
+🔍 Processando boot volume: LinuxData030
+2025-05-26 20:09:37,126 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:09:39,896 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-26 20:09:43,263 - INFO - ✅ Backup criado: BootBackup-LinuxData030-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:43,916 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:43,916 - INFO - 
+🔍 Processando boot volume: LinuxData040
+2025-05-26 20:09:44,041 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:09:49,162 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-26 20:09:55,180 - INFO - ✅ Backup criado: BootBackup-LinuxData040-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:55,838 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:55,839 - INFO - 
+🔍 Processando boot volume: LinuxData065
+2025-05-26 20:09:56,130 - INFO - ✅ Backup criado: BootBackup-LinuxData065-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:56,780 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:56,780 - INFO - 
+🔍 Processando boot volume: LinuxData072
+2025-05-26 20:09:57,067 - INFO - ✅ Backup criado: BootBackup-LinuxData072-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:57,695 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:57,695 - INFO - 
+🔍 Processando boot volume: LinuxData001
+2025-05-26 20:09:58,013 - INFO - ✅ Backup criado: BootBackup-LinuxData001-BKPAUTCITEL-20250526-2009
+2025-05-26 20:09:58,684 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:09:58,684 - INFO - 
+🔍 Processando boot volume: LinuxData002
+2025-05-26 20:09:58,809 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:10:00,390 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-26 20:10:04,381 - INFO - ✅ Backup criado: BootBackup-LinuxData002-BKPAUTCITEL-20250526-2009
+2025-05-26 20:10:05,037 - WARNING - ⏳ Backup ignorado (estado TERMINATED): Auto-backup for 2025-05-11 08:00:00 via policy: Citel_Diario04
+2025-05-26 20:10:05,038 - INFO - 
+🔍 Processando boot volume: LinuxTSPlus20_boot_clone0105
+2025-05-26 20:10:05,163 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:10:07,884 - INFO - ✅ Backup criado: BootBackup-LinuxTSPlus20_boot_clone0105-BKPAUTCITEL-20250526-2010
+2025-05-26 20:10:08,516 - INFO - 
+🔍 Processando boot volume: LinuxData013_clone06052025
+2025-05-26 20:10:08,642 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:10:10,299 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-26 20:10:17,358 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 4s...
+2025-05-26 20:10:26,598 - INFO - ✅ Backup criado: BootBackup-LinuxData013_clone06052025-BKPAUTCITEL-20250526-2010
+2025-05-26 20:10:27,226 - INFO - 
+🔁 Tentando novamente os backups que falharam...
+2025-05-26 20:10:27,226 - INFO - 
+🔄 Reprocessando: LinuxData037
+2025-05-26 20:10:27,355 - WARNING - ⚠️ Tentativa 1: Limite de requisições. Aguardando 1s...
+2025-05-26 20:10:33,252 - WARNING - ⚠️ Tentativa 2: Limite de requisições. Aguardando 2s...
+2025-05-26 20:10:39,937 - WARNING - ⚠️ Tentativa 3: Limite de requisições. Aguardando 4s...
+2025-05-26 20:10:45,067 - WARNING - ⚠️ Tentativa 4: Limite de requisições. Aguardando 8s...
+2025-05-26 20:10:55,247 - INFO - ✅ Backup criado: BootBackup-LinuxData037-BKPAUTCITEL-20250526-2010
+2025-05-26 20:10:55,247 - INFO - 
+✅ Execução concluída com sucesso
