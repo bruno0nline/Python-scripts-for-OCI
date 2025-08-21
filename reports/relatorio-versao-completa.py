@@ -4,7 +4,9 @@ import csv
 CSV_FILE = "instances_region_os_tags.csv"
 
 config = oci.config.from_file()
-config['region'] = 'sa-saopaulo-1'
+config['region'] = 'sa-saopaulo-1'  # Região Brazil East
+config['region'] = 'sa-vinhedo-1'  # Região Vinhedo
+config['region'] = 'us-ashburn-1'  # Região Ashburn
 
 compute_client = oci.core.ComputeClient(config)
 identity_client = oci.identity.IdentityClient(config)

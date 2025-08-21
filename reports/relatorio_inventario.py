@@ -5,8 +5,8 @@ import csv
 config = oci.config.from_file()
 #COMPARTMENT_NAME = "BID"
 config['region'] = 'sa-saopaulo-1'  # Região Brazil East
-#config['region'] = 'sa-vinhedo-1'  # Região Vinhedo
-#config['region'] = 'us-ashburn-1'  # Região Ashburn
+config['region'] = 'sa-vinhedo-1'  # Região Vinhedo
+config['region'] = 'us-ashburn-1'  # Região Ashburn
 
 compute_client = oci.core.ComputeClient(config)
 block_storage_client = oci.core.BlockstorageClient(config)
