@@ -15,6 +15,8 @@ block_storage_client = oci.core.BlockstorageClient(config)
 object_storage_client = oci.object_storage.ObjectStorageClient(config)
 database_client = oci.database.DatabaseClient(config)
 load_balancer_client = oci.load_balancer.LoadBalancerClient(config)
+cloud_advisor_client = oci.optimizer.OptimizerClient(config)
+cloud_guard_client = oci.cloud_guard.CloudGuardClient(config)
 namespace = object_storage_client.get_namespace().data
 
 # Get tenancy ID
@@ -23,6 +25,8 @@ tenancy_id = config["tenancy"]
 # Initialize result storage
 resources = {}
 findings = {}
+cloud_advisor_recommendations = []
+cloud_guard_findings = []
 
 try:
     # Fetch all compartments
@@ -65,9 +69,41 @@ try:
                     "name": instance.display_name,
                     "id": instance.id
                 })
-                # Best practice: Check if instance metadata is restricted
-                if instance.shape.startswith("VM.Standard"):
-                    instance_findings.append(f"Instance '{instance.display_name}' is using a basic shape.")
+
+                # Check if instance is using the latest platform images
+                image_details = compute_client.get_image(instance.image_id).data
+                if "platform" in image_details.operating_system and not image_details.is_latest:
+                    instance_findings.append(f"Instance '{instance.display_name}' is not using the latest platform image.")
+
+                # Check for SSH key-based authentication
+                if not instance.metadata or "ssh_authorized_keys" not in instance.metadata:
+                    instance_findings.append(f"Instance '{instance.display_name}' does not have SSH key-based authentication configured.")
+
+                # Check if password-based login is disabled
+                if instance.metadata and "disable_password_auth" not in instance.metadata:
+                    instance_findings.append(f"Instance '{instance.display_name}' has password-based login enabled.")
+
+                # Check for logging agents
+                if "logging_agent" not in instance.metadata or instance.metadata.get("logging_agent") != "configured":
+                    instance_findings.append(f"Instance '{instance.display_name}' does not have logging agents configured.")
+
+                # Check if NSGs restrict unnecessary ports
+                vnics = compute_client.list_vnic_attachments(compartment_id=compartment.id, instance_id=instance.id).data
+                for vnic_attachment in vnics:
+                    vnic = virtual_network_client.get_vnic(vnic_attachment.vnic_id).data
+                    nsgs = vnic.nsg_ids
+                    for nsg_id in nsgs:
+                        try:
+                            nsg_rules = oci.pagination.list_call_get_all_results(
+                                virtual_network_client.list_network_security_group_security_rules,
+                                network_security_group_id=nsg_id
+                            ).data
+                            for rule in nsg_rules:
+                                if rule.direction == "INGRESS" and rule.source == "0.0.0.0/0":
+                                    instance_findings.append(f"Instance '{instance.display_name}' NSG allows unrestricted ingress.")
+                        except oci.exceptions.ServiceError as e:
+                            instance_findings.append(f"Error fetching rules for NSG ID {nsg_id}: {str(e)}")
+
             findings[compartment.name].extend(instance_findings)
 
             # Discover Block Volumes
@@ -154,9 +190,39 @@ try:
                     lb_findings.append(f"Load Balancer '{lb.display_name}' is not using a flexible shape.")
             findings[compartment.name].extend(lb_findings)
 
+    # Discover Cloud Advisor Recommendations
+    try:
+        advisor_recommendations = oci.pagination.list_call_get_all_results(
+            cloud_advisor_client.list_recommendations,
+            compartment_id=tenancy_id,
+            compartment_id_in_subtree=True  # Include sub-compartments
+        ).data
+        for recommendation in advisor_recommendations:
+            cloud_advisor_recommendations.append({
+                "Name": recommendation.name,
+                "Recommendation": getattr(recommendation, "description", "No description available")
+            })
+    except oci.exceptions.ServiceError as e:
+        print(f"Cloud Advisor Service Error: {e}")
+
+    # Discover Cloud Guard Findings
+    try:
+        cloud_guard_problems = oci.pagination.list_call_get_all_results(
+            cloud_guard_client.list_problems,
+            compartment_id=tenancy_id,
+            compartment_id_in_subtree=True
+        ).data
+        for problem in cloud_guard_problems:
+            cloud_guard_findings.append({
+                "Name": problem.resource_name,
+                "Description": problem.labels
+            })
+    except oci.exceptions.ServiceError as e:
+        print(f"Cloud Guard Service Error: {e}")
+
     # Export data to JSON
     with open("oci_resources.json", "w") as file:
-        json.dump({"resources": resources, "findings": findings}, file, indent=4)
+        json.dump({"resources": resources, "findings": findings, "cloud_advisor_recommendations": cloud_advisor_recommendations, "cloud_guard_findings": cloud_guard_findings}, file, indent=4)
 
     print("Resource discovery and validation completed. Results saved to 'oci_resources.json'.")
 
@@ -177,29 +243,23 @@ try:
             cell.fill = PatternFill(start_color="FFCCCC", end_color="FFCCCC", fill_type="solid")
             cell.font = Font(bold=True)
 
-    # Count findings by resource type for visualization
-    resource_issues_summary = {}
-    for compartment, issues in findings.items():
-        for issue in issues:
-            resource_type = issue.split(" ")[0]  # Extract resource type from the issue string
-            resource_issues_summary[resource_type] = resource_issues_summary.get(resource_type, 0) + 1
+    # Add Cloud Advisor Recommendations
+    advisor_sheet = workbook.create_sheet(title="Cloud Advisor")
+    advisor_sheet.append(["Name", "Recommendation"])
+    if cloud_advisor_recommendations:
+        for recommendation in cloud_advisor_recommendations:
+            advisor_sheet.append([recommendation["Name"], recommendation["Recommendation"]])
+    else:
+        advisor_sheet.append(["No Cloud Advisor recommendations found."])
 
-    # Add a summary table for findings by resource type
-    summary_start_row = summary_sheet.max_row + 2
-    summary_sheet.append(["Resource Type", "Number of Issues"])
-    for resource_type, count in resource_issues_summary.items():
-        summary_sheet.append([resource_type, count])
-
-    # Create a bar chart for findings summary
-    bar_chart = BarChart()
-    data = Reference(summary_sheet, min_col=2, min_row=summary_start_row + 1, max_row=summary_sheet.max_row)
-    categories = Reference(summary_sheet, min_col=1, min_row=summary_start_row + 1, max_row=summary_sheet.max_row)
-    bar_chart.add_data(data, titles_from_data=False)
-    bar_chart.set_categories(categories)
-    bar_chart.title = "Findings by Resource Type"
-    bar_chart.x_axis.title = "Resource Type"
-    bar_chart.y_axis.title = "Number of Issues"
-    summary_sheet.add_chart(bar_chart, f"E{summary_start_row}")
+    # Add Cloud Guard Findings
+    cloud_guard_sheet = workbook.create_sheet(title="Cloud Guard")
+    cloud_guard_sheet.append(["Resource Name", "Description"])
+    if cloud_guard_findings:
+        for finding in cloud_guard_findings:
+            cloud_guard_sheet.append([finding["Name"], finding["Description"]])
+    else:
+        cloud_guard_sheet.append(["No Cloud Guard findings found."])
 
     # Add data sheets for each resource type
     for resource_type in ["VCNs", "Compute Instances", "Block Volumes", "Buckets", "Bucket Objects", "Autonomous Databases", "Load Balancers"]:
@@ -209,35 +269,37 @@ try:
             for item in resource_data.get(resource_type, []):
                 sheet.append([compartment, item.get("name"), item.get("id", "N/A")])
 
-    # Add visualization sheet
+    # Add Visualization Sheet
     visualization_sheet = workbook.create_sheet(title="Visualizations")
     visualization_sheet.append(["Resource Type", "Count"])
 
-    # Prepare summary data for visualization
-    summary_data = {}
-    for compartment, resource_types in resources.items():
-        for resource_type, resource_list in resource_types.items():
-            summary_data[resource_type] = summary_data.get(resource_type, 0) + len(resource_list)
+    resource_counts = {
+        "VCNs": sum(len(data.get("VCNs", [])) for data in resources.values()),
+        "Compute Instances": sum(len(data.get("Compute Instances", [])) for data in resources.values()),
+        "Block Volumes": sum(len(data.get("Block Volumes", [])) for data in resources.values()),
+        "Buckets": sum(len(data.get("Buckets", [])) for data in resources.values()),
+        "Bucket Objects": sum(len(data.get("Bucket Objects", [])) for data in resources.values()),
+        "Autonomous Databases": sum(len(data.get("Autonomous Databases", [])) for data in resources.values()),
+        "Load Balancers": sum(len(data.get("Load Balancers", [])) for data in resources.values()),
+    }
 
-    for resource_type, count in summary_data.items():
+    for resource_type, count in resource_counts.items():
         visualization_sheet.append([resource_type, count])
 
-    # Create Pie Chart
     pie_chart = PieChart()
-    data = Reference(visualization_sheet, min_col=2, min_row=2, max_row=len(summary_data) + 1)
-    labels = Reference(visualization_sheet, min_col=1, min_row=2, max_row=len(summary_data) + 1)
-    pie_chart.add_data(data, titles_from_data=False)
-    pie_chart.set_categories(labels)
     pie_chart.title = "Resource Distribution"
+    pie_data = Reference(visualization_sheet, min_col=2, min_row=2, max_row=len(resource_counts) + 1)
+    pie_labels = Reference(visualization_sheet, min_col=1, min_row=2, max_row=len(resource_counts) + 1)
+    pie_chart.add_data(pie_data, titles_from_data=False)
+    pie_chart.set_categories(pie_labels)
     visualization_sheet.add_chart(pie_chart, "D2")
 
-    # Create Bar Chart
     bar_chart = BarChart()
-    bar_chart.add_data(data, titles_from_data=False)
-    bar_chart.set_categories(labels)
     bar_chart.title = "Resource Counts"
-    bar_chart.x_axis.title = "Resource Type"
-    bar_chart.y_axis.title = "Count"
+    bar_data = Reference(visualization_sheet, min_col=2, min_row=2, max_row=len(resource_counts) + 1)
+    bar_labels = Reference(visualization_sheet, min_col=1, min_row=2, max_row=len(resource_counts) + 1)
+    bar_chart.add_data(bar_data, titles_from_data=False)
+    bar_chart.set_categories(bar_labels)
     visualization_sheet.add_chart(bar_chart, "D20")
 
     # Save the Excel workbook
