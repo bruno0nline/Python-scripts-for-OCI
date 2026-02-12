@@ -1,10 +1,29 @@
 import oci
 import csv
 import json
+import sys
 
-# Carrega configuração padrão do OCI (~/.oci/config)
-config = oci.config.from_file()
-config['region'] = 'sa-saopaulo-1'  # Região Brazil East
+# Carrega configuração do OCI
+# Funciona tanto localmente (~/.oci/config) quanto no Cloud Shell (autenticação automática)
+try:
+    config = oci.config.from_file()
+    print("✓ Usando configuração de ~/.oci/config")
+except Exception as e:
+    print(f"⚠ Arquivo de config não encontrado, tentando autenticação de instância...")
+    try:
+        # Tenta usar autenticação de instância (Cloud Shell)
+        signer = oci.auth.signers.InstancePrincipalsSecurityTokenSigner()
+        config = {'region': oci.config.DEFAULT_LOCATION}
+        print("✓ Usando autenticação de instância (Cloud Shell)")
+    except Exception as e2:
+        print(f"✗ Erro ao configurar autenticação: {e2}")
+        print("\nPor favor, configure o OCI CLI ou execute no Cloud Shell")
+        sys.exit(1)
+
+# Você pode alterar a região aqui se necessário
+# config['region'] = 'sa-saopaulo-1'  # Região Brazil East (São Paulo)
+
+print(f"✓ Região: {config.get('region', 'padrão')}")
 
 # Clientes de serviço
 compute_client = oci.core.ComputeClient(config)
@@ -12,7 +31,15 @@ block_storage_client = oci.core.BlockstorageClient(config)
 network_client = oci.core.VirtualNetworkClient(config)
 identity_client = oci.identity.IdentityClient(config)
 
-tenancy_id = config['tenancy']
+# Obtém tenancy ID
+try:
+    tenancy_id = config['tenancy']
+except KeyError:
+    # Se não tiver no config, obtém do identity
+    tenancy_id = identity_client.get_user(identity_client.base_client.signer.api_key.split('/')[3]).data.compartment_id
+
+print(f"✓ Tenancy ID: {tenancy_id[:20]}...")
+print("\n🔍 Listando compartimentos...")
 
 # Lista todos os compartimentos (inclusive o root)
 compartments = oci.pagination.list_call_get_all_results(

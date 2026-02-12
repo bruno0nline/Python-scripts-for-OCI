@@ -1,19 +1,45 @@
 import oci
 import csv
+import sys
 
-# Carrega configuração padrão do OCI (~/.oci/config)
-config = oci.config.from_file()
-#COMPARTMENT_NAME = "BID"
-config['region'] = 'sa-saopaulo-1'  # Região Brazil East
-config['region'] = 'sa-vinhedo-1'  # Região Vinhedo
-config['region'] = 'us-ashburn-1'  # Região Ashburn
+# Carrega configuração do OCI
+# Funciona tanto localmente (~/.oci/config) quanto no Cloud Shell (autenticação automática)
+try:
+    config = oci.config.from_file()
+    print("✓ Usando configuração de ~/.oci/config")
+except Exception as e:
+    print(f"⚠ Arquivo de config não encontrado, tentando autenticação de instância...")
+    try:
+        # Tenta usar autenticação de instância (Cloud Shell)
+        signer = oci.auth.signers.InstancePrincipalsSecurityTokenSigner()
+        config = {'region': oci.config.DEFAULT_LOCATION}
+        print("✓ Usando autenticação de instância (Cloud Shell)")
+    except Exception as e2:
+        print(f"✗ Erro ao configurar autenticação: {e2}")
+        print("\nPor favor, configure o OCI CLI ou execute no Cloud Shell")
+        sys.exit(1)
+
+# Você pode alterar a região aqui se necessário (descomente a linha desejada)
+# config['region'] = 'sa-saopaulo-1'  # Região Brazil East (São Paulo)
+# config['region'] = 'sa-vinhedo-1'  # Região Vinhedo
+# config['region'] = 'us-ashburn-1'  # Região Ashburn
+
+print(f"✓ Região: {config.get('region', 'padrão')}")
 
 compute_client = oci.core.ComputeClient(config)
 block_storage_client = oci.core.BlockstorageClient(config)
 network_client = oci.core.VirtualNetworkClient(config)
 identity_client = oci.identity.IdentityClient(config)
 
-tenancy_id = config['tenancy']
+# Obtém tenancy ID
+try:
+    tenancy_id = config['tenancy']
+except KeyError:
+    # Se não tiver no config, obtém do identity
+    tenancy_id = identity_client.get_user(identity_client.base_client.signer.api_key.split('/')[3]).data.compartment_id
+
+print(f"✓ Tenancy ID: {tenancy_id[:20]}...")
+print("\n🔍 Listando compartimentos...")
 
 # Lista domínios de disponibilidade
 domains = identity_client.list_availability_domains(tenancy_id).data
@@ -51,11 +77,14 @@ for compartment in compartments:
             compute_client.list_instances,
             compartment.id
         ).data
+        if instances:
+            print(f"  ✓ {compartment.name}: {len(instances)} instância(s)")
     except Exception as e:
-        print(f"Erro ao listar instâncias no compartimento {compartment.name}: {e}")
+        print(f"  ✗ Erro ao listar instâncias no compartimento {compartment.name}: {e}")
         continue
 
     for instance in instances:
+        print(f"    → Processando: {instance.display_name}")
         inst_data = {
             "Instance Name": instance.display_name,
             "Compartment": compartment.name,
@@ -143,13 +172,18 @@ for compartment in compartments:
 
         output.append(inst_data)
 
+print(f"\n📊 Total de instâncias encontradas: {len(output)}")
+print("💾 Gerando arquivo CSV...")
+
 # Exporta para CSV
 if output:
-    with open("oci_instances_full_report.csv", mode="w", newline="") as file:
+    csv_filename = "oci_instances_full_report.csv"
+    with open(csv_filename, mode="w", newline="", encoding="utf-8") as file:
         writer = csv.DictWriter(file, fieldnames=output[0].keys())
         writer.writeheader()
         writer.writerows(output)
 
-    print("✅ Exportado com sucesso para oci_instances_full_report.csv")
+    print(f"✅ Exportado com sucesso para {csv_filename}")
+    print(f"📄 Total de {len(output)} instância(s) no relatório")
 else:
     print("⚠️ Nenhum dado foi coletado. Verifique permissões ou filtros.")
