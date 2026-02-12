@@ -57,6 +57,25 @@ Scripts para automação e gerenciamento do Oracle Cloud Infrastructure via Clou
 
 ---
 
+## ⚡ Instalação Rápida no Cloud Shell
+
+### Método 1: Instalação Automática (Recomendado)
+```bash
+curl -sSL https://raw.githubusercontent.com/bruno0nline/Python-scripts-for-OCI/main/install.sh | bash
+source ~/.bashrc
+```
+
+### Método 2: Manual (3 comandos)
+```bash
+git clone https://github.com/bruno0nline/Python-scripts-for-OCI.git
+cd Python-scripts-for-OCI
+pip3 install --user -r requirements.txt
+```
+
+📖 **Guia completo**: [CLOUDSHELL_QUICKSTART.md](CLOUDSHELL_QUICKSTART.md)
+
+---
+
 ## 🚀 Quick Start - Listar Instâncias
 
 ### Via CLI (mais rápido)
@@ -105,9 +124,12 @@ No Cloud Shell, a autenticação já está configurada automaticamente.
 
 ## 📚 Documentação Adicional
 
+- **CLOUDSHELL_QUICKSTART.md** - ⭐ Guia rápido para Cloud Shell (comece aqui!)
+- **CLOUDSHELL_SETUP.md** - Guia completo de instalação e uso no Cloud Shell
+- **USAGE_EXAMPLES.md** - Exemplos práticos de todos os scripts
+- **QUICK_REFERENCE.md** - Comandos CLI mais usados
 - **FILE_MAPPING.md** - Mapeamento completo de nomes antigos para novos
 - **ORGANIZE.md** - Estrutura detalhada de organização
-- **QUICK_REFERENCE.md** - Comandos CLI mais usados
 
 ---
 
