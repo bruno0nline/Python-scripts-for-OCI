@@ -35,7 +35,6 @@ Scripts para automação e gerenciamento do Oracle Cloud Infrastructure via Clou
 - `oci-cleanup-block-volume-backups.py` - Remove backups de block volumes
 
 ### 🔐 security/ - Segurança e IAM
-- `oci-iam-auditor.py` - Auditoria de IAM
 - `oci-iam-audit-report.py` - Relatório de auditoria IAM
 - `oci-iam-policy-exporter.py` - Exporta políticas IAM
 - `oci-network-security-auditor.py` - Auditoria de segurança de rede
